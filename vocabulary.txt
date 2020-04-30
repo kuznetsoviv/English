@@ -1,13 +1,13 @@
 distort - искажать														fairly - достаточно	
 make up - составлять													apprentice - подмастерье	
 adopt - принимать														clog - засорять, помеха
-nittyy-gritty - повседневная работа (мелкие детали)						doc and dont's - что можно и чего нельзя (правила)
+nittyy-gritty - повседневная работа (мелкие детали)						dos and don'ts - что можно и чего нельзя (правила)
 foible - причуда														packet-switched network - сеть с коммутацией пакетов
 as opposed - в отличии													sever - разорвана
 obscure - смутный (неясный)												breakdown - разрушение
 relay - ретранслировать (переключать)									stuff - материал
 sanction - одобрение													accomodate - приспосабливать
-foundation - основная													congestion - загруженность
+foundation - основа													    congestion - загруженность
 trove - клад															spoofing - подмена
 rag-tag - шушера														throttle - дроссель
 attaraction - притяжение (привлекательность)							flurry - шквал
@@ -35,23 +35,31 @@ advent - прибытие														curb - сдерживание
 get work done - закончить работу										entice - привлечь
 peek - быстрый взгляд													rapporteur - докладчик	
 line feed - перевод строки												came up - подошел
-solely - исключительно
-followed by - с последующим
-bias - уклон, смещение, предвзятый
-summary - резюме
-intervene - вмешиваться
-verbatim - дословный
-likewise - подобно
-relay - ретранслировать
-controversy - спор
-compliant - совместимый
-permutation - перестановка (комбинация)
-mitigate - уменьшить
-keen on - сосредоточиться (увлекаться)
-fully qualified - полное
-bogus - фиктивный
-straddle fence - занимать нейтральную позицию
-trailer - прицеп
-fanfare - шумиха
-crux - основная проблема
-try back - вернуться (снова попытаться)
+solely - исключительно													probe - щуп
+followed by - с последующим												fend - парировать (заботиться)
+bias - уклон, смещение, предвзятый										spectator - зритель		
+summary - резюме														revenue - доход
+intervene - вмешиваться													hijack - похищать
+verbatim - дословный													swan - лебедь		
+likewise - подобно														nephew - племянник
+relay - ретранслировать													picturesque - живописный
+controversy - спор														rejuvenate - восстанавливать
+compliant - совместимый													roll out - выкатываться
+permutation - перестановка (комбинация)									kick it - проводить время
+mitigate - уменьшить													confront - противостоять
+keen on - сосредоточиться (увлекаться)									glistening - сверкающий 
+fully qualified - полное												falter - колебаться
+bogus - фиктивный														stockpile - запас
+straddle fence - занимать нейтральную позицию							cite - ссылаться
+trailer - прицеп														hoax  - ложь
+fanfare - шумиха														falsehood - ложное утверждение
+crux - основная проблема												rollout - внедрение
+try back - вернуться (снова попытаться)                                 headlong - безудержный
+accord - согласие                                                       gut - кишка (чутье)
+juggle - жонглировать													oblique - непрямой угол
+frailty - хрупкость														feasibly - выполнимо
+mesmeraise - гипнотизировать											dispirit - удручать
+stubborn - упрямый														backdrop - заставка	
+oblivion - забвение
+right on the money - правильно
+rant - разглагольствовать
