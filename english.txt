@@ -249,6 +249,15 @@ over - можеть использоваться, как: предлог, нар
    may - используется, чтобы предложить какую-либо помощь - May i help you? - Я вам могу помочь? - вежливие, чем could 
 -------------------------------------------------------------------
 -------------------------------------------------------------------
-would like - хотелось бы - I would like a caup of coffee. - What would you like to drink?
+would like - хотелось бы - I would like a cup of coffee. - What would you like to drink?
 Why don't you .. ? - Why don't you go to the party with us?
-How about .. ? - How about coming to the party with us?      	 				
+How about .. ? - How about coming to the party with us?
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Условные предложения нулевого типа:
+	1) нулевого типа - что-то происходит постоянно, какие-то закономерности (время present simple, perfect, continious):
+		If you don't eat for a long time, you become hungry.
+		If you don't sleep for some days, you feel bad. 
+	2) первого типа - описывают возможное развитие события в будущем (условие может начинаться с if, then, after, before):
+		If i have money, i will buy  ticket.
+		В условии можно использовать present continious: If he is sleeping, we will not wake up up.        	 				

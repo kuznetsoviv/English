@@ -51,7 +51,7 @@ keen on - сосредоточиться (увлекаться)									glisteni
 fully qualified - полное												falter - колебаться
 bogus - фиктивный														stockpile - запас
 straddle fence - занимать нейтральную позицию							cite - ссылаться
-trailer - прицеп														hoax - ложь
+trailer - прицеп														hoax - ложь (розыгрыш)
 fanfare - шумиха														falsehood - ложное утверждение
 crux - основная проблема												rollout - внедрение
 try back - вернуться (снова попытаться)                                 headlong - безудержный
@@ -71,7 +71,12 @@ chomp - чавкать 														lethal - летальный
 hornet - шершень														captivity - неволя
 twitch - подергиваются													rash - сыпь
 pardon - помиловать														placeholder - заполнитель
-applaud - аплодировать
-stroll - прогулка
-dub - окрестить
-fuss - суетится
+applaud - аплодировать													halberd - алебарба
+stroll - прогулка														faerie - феерический
+dub - окрестить															wack - ненормальный
+fuss - суетится															bulwark - оплот
+manifistation - олицитворение											file feet apart - на расстоянии пять футов
+close-up - крупный план 												plexiglas - органическое стекло
+enactment - принятие													vogue - мода
+junk food - вредная пища  	 											quotient - частное
+flat out - ошибся
