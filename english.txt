@@ -247,6 +247,8 @@ over - можеть использоваться, как: предлог, нар
 4) may/might - вероятно что-то произойдет - I may join you. - Я возможно присоединюсь к тебе. 
 	(may - большая вероятность, чте might).
    may - используется, чтобы предложить какую-либо помощь - May i help you? - Я вам могу помочь? - вежливие, чем could 
+5) have to - должен (недобровольное обязательство) - с ним использцются вспомогутельные глаголы (do, did, does, will, ..)
+	Do you have to work on Sunday?   
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 would like - хотелось бы - I would like a cup of coffee. - What would you like to drink?
@@ -260,4 +262,13 @@ How about .. ? - How about coming to the party with us?
 		If you don't sleep for some days, you feel bad. 
 	2) первого типа - описывают возможное развитие события в будущем (условие может начинаться с if, then, after, before):
 		If i have money, i will buy  ticket.
-		В условии можно использовать present continious: If he is sleeping, we will not wake up up.        	 				
+		В условии можно использовать present continious: If he is sleeping, we will not wake up up.
+	3) второго типа - возможные, маловерояные ситуации в настоящем и будущем времени.
+		If I had money, I would live here.
+		If I had money, I would buy this dress.
+		If I were rich, I would give you some money.
+	4) Третьего типа - посвещен ворчанию (все уже произошло)
+		Условие: had + V3 (Past herfect)
+		Действие: would + Present Perfect
+		If you had called me, I would have come.
+		If we had known it is so expensive here, we would have come.
