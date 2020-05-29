@@ -230,7 +230,7 @@ over - можеть использоваться, как: предлог, нар
 	1) can - используется: 
 		1) для выражения просьбы - Can you help me? Could you help me? (более вежливое)
 		2) когда нужно запретить что-то - You cannon walk on the grass.
-		3) что-то возможно и мы что-то можем - You can see the lake from our hotal. He can run fast.
+		3) что-то возможно и мы что-то можем - You can see the lake from our hotel. He can run fast.
 		4) выражение возможности сделать что-либо - We can go to the cinema. (большая вероятность чем could)
 	2) could - используется:
 		1) в прошлом была возможность сделать что-то в любой момент времени - When i was a child I could do nothing.
