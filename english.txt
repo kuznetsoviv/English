@@ -293,8 +293,19 @@ How about .. ? - How about coming to the party with us?
 	Any of + my/this/the (любой из) - You can take any of my dresses.
 	1) Используется в отрицательных и вопросительных предложениях.
 		Do you know anybody here? - I'm glad that you don't have any problems.		
-	Производные от местоимения some:
+	Производные от местоимения any:
 		I haven't bought anything.
 		Have you gone anywhere?
 	2) Используется в утвердительных предложениях, если нужно сделать акцент на слове любой:
 		You can take any dress you want.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Местоимение no:
+	not + a  = no
+		I don't have a sister. = I have no sister.
+		He doesn't have a dog. = He has no dog.
+	not + any = no	
+		I do not have any money. = I have no money.
+	Производные от местоимения any:	
+		nothing, no one, nowhere 
+		I want nothing. I want to go nowhere.

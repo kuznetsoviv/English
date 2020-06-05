@@ -222,9 +222,13 @@ remember - помнить - I remember your name.
 remind - напоминать - Set a reminder. - Установить напоминалку.
 -------------------------------------------------------------------
 -------------------------------------------------------------------
-tell (told, told) - рассказать кому-то - I'd like to tell you something. - Я бы хотел тебе кое-что рассказать.
+tell (told, told) - рассказать кому-то - I'd like to tell you something. - Я бы хотел тебе кое-что рассказать.   
 speak (spoke, spoken) - говорить (разговарить) - I'd like to speak with you. - Я бы хотел поговорить с тобой. She speaks very quickly.
+	1) когда говорим на каком-то языке -   I don't speak English.
+	2) когда мы разговариваем - I spoke to my partner yesterday. 
+	3) когда выступаем перед аудиторией
 say - сказать - I'd like to say it. - Я бы хотел сказать это.
+talk - разговаривать - используется для неофициального общения - talk show - Yesterday I met my friend and we talked for a while.
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 What is the weather like today? - Какая сегодня погода?
@@ -447,3 +451,7 @@ to fall into the habit of - приобретать привычку
 to-do list - список дел, которые надо сделать
 -------------------------------------------------------------------
 -------------------------------------------------------------------
+Значения слова last:
+1) последний - Last Friday I was int the countryside. (не используется предлог: last summer - in summer)
+2) длиться - My lesson lasts an hour. (My lesson lasted an hour) - How long did it last?
+3) It lasts - Это работает. It will last longer. - Это прослужит дольше. This shoes didn't last a month.
