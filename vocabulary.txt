@@ -80,12 +80,12 @@ close-up - крупный план 												plexiglass - органическ
 enactment - принятие													vogue - мода
 junk food - вредная пища  	 											quotient - частное
 flat out - ошибся														alleged - предполагаемый
-topple - падать (опрокидовать)
-confectionary - кондитерские изделия
-waddle - идти не торопясь
-jellyfish - медуза
-garment - предмет одежды
-suck up - подлизываться
+topple - падать (опрокидовать)											take down - записывать
+confectionary - кондитерские изделия									bulge - выпячиваться
+waddle - идти не торопясь												revolting - отвратительная
+jellyfish - медуза														repulsive - омерзительный
+garment - предмет одежды												indigenous - местный
+suck up - подлизываться													denounce - осуждение
 digress - отвлечься
 glacier - ледник
 corollary - следствие
@@ -95,3 +95,7 @@ by far - безусловно
 virtually - фактически
 contagious - заразный
 excavate - рыть
+retardant - замедлитель
+spare - запасной
+nourishment - пища
+vigil - бодрствование
