@@ -234,7 +234,7 @@ over - можеть использоваться, как: предлог, нар
 		4) выражение возможности сделать что-либо - We can go to the cinema. (большая вероятность чем could)
 	2) could - используется:
 		1) в прошлом была возможность сделать что-то в любой момент времени - When i was a child I could do nothing.
-		2) если была конкретная ситуация, то нельзя его использовать (замена was (were) to / managed to) - He was able to beat him.
+		2) если была конкретная ситуация, то нельзя его использовать (замена was (were) able to / managed to) - He was able to beat him.
 		3) could not - можно использовать с любой ситуацией - Yesterday I was so tired and I couldn't do my English homework.	
 		4) выражение возможности сделать что-либо - We could go to cinema. (меньшая вероятность чем can)
 2) must - должен, обязан - I must go. (have to - более мягкий must)
@@ -247,7 +247,7 @@ over - можеть использоваться, как: предлог, нар
 4) may/might - вероятно что-то произойдет - I may join you. - Я возможно присоединюсь к тебе. 
 	(may - большая вероятность, чте might).
    may - используется, чтобы предложить какую-либо помощь - May i help you? - Я вам могу помочь? - вежливие, чем could 
-5) have to - должен (недобровольное обязательство) - с ним использцются вспомогутельные глаголы (do, did, does, will, ..)
+5) have to - должен (недобровольное обязательство) - с ним используются вспомогутельные глаголы (do, did, does, will, ..)
 	Do you have to work on Sunday?   
 -------------------------------------------------------------------
 -------------------------------------------------------------------
@@ -261,7 +261,7 @@ How about .. ? - How about coming to the party with us?
 		If you don't eat for a long time, you become hungry.
 		If you don't sleep for some days, you feel bad. 
 	2) первого типа - описывают возможное развитие события в будущем (условие может начинаться с if, then, after, before):
-		If i have money, i will buy  ticket.
+		If i have money, i will buy ticket.
 		В условии можно использовать present continious: If he is sleeping, we will not wake up up.
 	3) второго типа - возможные, маловерояные ситуации в настоящем и будущем времени.
 		If I had money, I would live here.
@@ -309,3 +309,33 @@ How about .. ? - How about coming to the party with us?
 	Производные от местоимения any:	
 		nothing, no one, nowhere 
 		I want nothing. I want to go nowhere.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Специальные вопросы:
+What - What kind of - Which 
+	1)  What have you bought? - Что ты купил?
+		What colour are your eyes? - Какого цвета твои глаза?
+	2)  What kind film is it? - Какого жанра этот фильм?
+	3)  Witch - какой из этих объектов - Witch cake do you want?
+Who - Whom - Whose
+	Who - задаем вопрос на главного героя - He brought some flowers -> Who brought the flowers? - Who called me? - Who is working there?
+	Whom - на какого было направлено действие - Whom are you going to invite? - Whom did he hire to do the job?
+	Whose - вопрос на притяжательное местоимение - This is my house - Whose house is this? (Whose book is this?)
+Вопросы с предлогами:
+	Предлог переносится в конец предложения:
+	What are you looking at?
+	What are you thinking about?
+	Who did you walk yesterday with?
+Двойные вопросы:
+	1 часть - как вопрос +
+	2 часть - как утверждение
+	Do you know where he works? - Ты знаешь где он работает?
+	Do you know wherw he is? - Ты знаешь где он?
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Использование частицы to:
+	1) Предлог направления - I want to go to Italy.
+	2) Признак инфинитива - I want to eat.
+	3) Предлог о времени - I will be busy from 5 to 6.
+	4) Чтобы - I learn English to work abroad. I go to the shop to buy some milk.
+	5) Дательный подеж - I wrote a letter to her. I gave my present to him.		
