@@ -338,4 +338,4 @@ Who - Whom - Whose
 	2) Признак инфинитива - I want to eat.
 	3) Предлог о времени - I will be busy from 5 to 6.
 	4) Чтобы - I learn English to work abroad. I go to the shop to buy some milk.
-	5) Дательный подеж - I wrote a letter to her. I gave my present to him.		
+	5) Дательный падеж - I wrote a letter to her. I gave my present to him.		
