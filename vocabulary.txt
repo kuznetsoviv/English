@@ -1,8 +1,6 @@
-distort - искажать														fairly - достаточно	                                           
+distort - искажать														fairly - достаточно	
 make up - составлять													apprentice - подмастерье	
 adopt - принимать														clog - засорять, помеха
-nittyy-gritty - повседневная работа (мелкие детали)						dos and don'ts - что можно и чего нельзя (правила)
-foible - причуда														packet-switched network - сеть с коммутацией пакетов
 as opposed - в отличии													sever - разорвана
 obscure - смутный (неясный)												breakdown - разрушение
 relay - ретранслировать (переключать)									stuff - материал
@@ -74,8 +72,7 @@ pardon - помиловать														placeholder - заполнитель
 applaud - аплодировать													halberd - алебарба
 stroll - прогулка														faerie - феерический
 dub - окрестить															wack - ненормальный
-fuss - суетится															bulwark - оплот
-manifistation - олицитворение											five feet apart - на расстоянии пять футов
+fuss - суетится															bulwark - оплот						
 close-up - крупный план 												plexiglass - органическое стекло
 enactment - принятие													vogue - мода
 junk food - вредная пища  	 											quotient - частное
@@ -89,12 +86,12 @@ suck up - подлизываться													denounce - осуждение
 digress - отвлечься														jostle - толкаться
 glacier - ледник														kick up - подымать
 corollary - следствие													despicable - презренный	
-scrounge - попорошайничать												cram - давка
+scrounge - попрошайничать												cram - давка
 fawn - олененок															wellhead - устье скважины
 by far - безусловно														itinerary - маршрут
 virtually - фактически													canine - собачий
 contagious - заразный													feline - кошачий
-excavate - рыть
+excavate - рыть 														lay off - увольнять
 retardant - замедлитель
 spare - запасной
 nourishment - пища
@@ -104,3 +101,8 @@ hose - шланг
 nibble - откусывать
 cuisine - кухня
 dilute - разбавлять
+submerse - погружаться
+nutrient - питательное вещество
+acute - сильный
+submerge - затоплять
+involuntary - непроизвольный 
