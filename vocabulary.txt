@@ -69,7 +69,7 @@ chomp - чавкать 														lethal - летальный
 hornet - шершень														captivity - неволя
 twitch - подергиваются													rash - сыпь
 pardon - помиловать														placeholder - заполнитель
-applaud - аплодировать													halberd - алебарба
+applaud - аплодировать													helberd - алебарба
 stroll - прогулка														faerie - феерический
 dub - окрестить															wack - ненормальный
 fuss - суетится															bulwark - оплот						
@@ -92,10 +92,10 @@ by far - безусловно														itinerary - маршрут
 virtually - фактически													canine - собачий
 contagious - заразный													feline - кошачий
 excavate - рыть 														lay off - увольнять
-retardant - замедлитель
-spare - запасной
-nourishment - пища
-vigil - бодрствование
+retardant - замедлитель													encounter - встретить
+spare - запасной														brisk - быстрый
+nourishment - пища 														scour - прочесывать	
+vigil - бодрствование													retailer - розничный торговец
 meadow - газон
 hose - шланг
 nibble - откусывать
@@ -105,4 +105,5 @@ submerse - погружаться
 nutrient - питательное вещество
 acute - сильный
 submerge - затоплять
-involuntary - непроизвольный 
+involuntary - непроизвольный
+retrieve - извлекать
