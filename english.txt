@@ -178,7 +178,7 @@ over - можеть использоваться, как: предлог, нар
 4) когда пересекаем какое-либо пространство:
 	Our plane is flying over the Atlantic Ocean.
 5) о превышении количества:
-	Our 100000 people get an education at our University.
+	Over 100000 people get an education at our University.
 -------------------------------------------------------------------	
 Наречие:
 	over - быть законченным (используется, когда какой-то процесс закончился в определенный момент времени) - Lesson is over.
@@ -330,7 +330,7 @@ Who - Whom - Whose
 	1 часть - как вопрос +
 	2 часть - как утверждение
 	Do you know where he works? - Ты знаешь где он работает?
-	Do you know wherw he is? - Ты знаешь где он?
+	Do you know where he is? - Ты знаешь где он?
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 Использование частицы to:
@@ -338,4 +338,92 @@ Who - Whom - Whose
 	2) Признак инфинитива - I want to eat.
 	3) Предлог о времени - I will be busy from 5 to 6.
 	4) Чтобы - I learn English to work abroad. I go to the shop to buy some milk.
-	5) Дательный падеж - I wrote a letter to her. I gave my present to him.		
+<<<<<<< HEAD
+	5) Дательный подеж - I wrote a letter to her. I gave my present to him.	
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+at - во сколько - I have an English class at 5. - at night - at midnight - at the same time - at the moment (в данный момент) - at weekend
+on - используется с днями - On Monday I don't work. - I arrived on the second of November.
+in - месеца, сезоны, года - I was born in August. - in the morning - in the afternoon - in the evening - in 1 hour (через час)
+every, next, last, this, that - используются без предлогов
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+for - в течении какого-то времени - I have been living here for 6 months.
+during - используется, когда мы хотим сказать, что во время чего-то что-то произошло - He called me during my lesson.
+while - союз, который ставится по середине предложения (пока, в то время как) - I worked while he was sleeping.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+since - с, со времени, после - I have been waiting for you since 10 a.m.
+till, until - до - I will be on holiday till Friday.
+from .. to - есть и начало и конец - I was reading this book from Monday to Friday.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Предлоги места:
+1) in - в (находимся в пределах какого-то пространства) - I am in the living room. I am in Moscow.
+	+ in the book 
+	+ in the photo (I don't see you in the photo) 
+	+ in the car (I am in the car) 
+	+ in the world
+	+ in the tree
+	+ in the sky - There is a plane in the sky.
+	+ in the picture
+	+ in the sun
+	+ (любые погодные условия) in the rain - in the shade - in good weather
+2) on - на (на какой-то поверхности) - There is a dirty mark on your cheek.
+	+ на общественном транспорте - on the plane (bus, train)
+	+ на велосипеде - on bike
+	+ со сторонами - on the right - on the left - Go straight on, and you will see a pharmacy on your right.
+	+ на этаже - I live on the first floor.
+	+ телевизор, радио - I've heard it on the radio.
+	+ балкон - on the balcony - I love to have a cup of coffee on the balcony.
+	+ по пути - on the way - I will grap some ice cream on the way home.
+	+ в меню - on the menu - I didn't find steak on the menu.
+	+ телефон - on the phone - You are wanted on the phone. - Is she still on the phone?
+	+ диета - on a diet - I am on a diet. I have put on a lot of weight, I should go on a diet.
+	+ в целом - on the whole - Sometimes I have problems at work but on the whole I like it.
+	+ отпуск - on holiday - Sorry, I am on holiday now and I don't want to discuss my job. (on a cruise, on a tour)
+		to go to a place for a holiday - We have decided to go to Egypt for a holiday.
+3) at
+	+ когда мы находимся рядом с чем-то	(I am at your door. Can i come in?)
+	+ когда сидим за столом или работаем за компьютером - I am at the table. I work at the computer.
+	+ о скоплении любей 
+		- at the meeting - I got to know a lot of intresting information at the meeting yesterday.
+		- at the party - I met my friend at the party.
+	+ с публичными местами - at the bank - at the post office - In the morning I was at the bank.
+	+ на автобусной остановке - at the bus stop - I have been waiting for my bus at the bus stop for 20 minutes.
+	+ когда работаем на какой-то компании - I work at (for) a company that makes microchips. - I work at (for) Intel.
+	+ возраст - I met my best friend at twenty. (I met my best friend at the age of 27.)
+	+ скорость - I was so scary and drove at 40 kilometers an hour.
+	+ с температурой - Water boils at 100 degrees.
+4) to - используем, когда говорим о направлении - I am going to Spain.
+5) towards - используем, когда говорим "по направлению" - Go towards the bank. And take the second on the left.
+6) behind - позади - There is someone walking behind me. Turn around and you will see her behind.
+7) around - вокруг - The run around the room. - I love walking around the city center.
+8) along - вдоль - Go along the street and you will see the cinema on the right.
+9) into - когда говорим о движении внутрь - I am in the room. - I go to the room. - I am coming into the room.
+10) from - откуда (откуда какая-то вещь) - My dress is from Russia.
+11) between - между - I am between the pharmacy and the shop.
+12) out of - используем, когда выходим из како-либо пространства (либо что-то достаем) - 
+	Take these apples out of the bag. 
+	I will be out of country.
+	The girl went out of the pool.
+13) across
+	+ используем, когда переходим с одной стороны на другую - She ran across the street. We travelled across Italy.
+	+ на другой стороне - There is a forest across the river. 
+14) over 
+	+ через - My dog jump over the fence.
+	+ летим через над страной - Now we are flying over Italy.
+	+ в значении положенный на что-то - She wore a jacket over her shirt.
+15) through
+	+ используем, когда въезжаем куда-то с одной стороны и выезжаем с другой - We travelled through Italy.
+16) by 
+	+ путеществуем при помощи какого-то транспорта - Jess goes to work by bus. I always travel by plane.
+		+ если говорим про конкретную машину, то используем предлог in - I've come here in the taxi
+		+ если говорим про конкретный общественный транспорт, то используем предлог on - What will you do on the plane?
+	+ по почте (by post) - по телефону (by phone) - по электронной почте (by email)	- Much of his work is done by phone.
+	+ рассчитываться картой - to pay by card - Can i pay by card?
+		+ ксли говорим про наличные, то вообще не используем предлог или используем in - I would like to pay (in) cash.
+	+ по ошибке - I've called you by mistake.
+	+ когда говорим о создателе - This novel is by Mark Twain.
+		+ используем with, когда нужно добавить какой-то инструмент - 	
+

@@ -514,7 +514,7 @@ My calling is to teach English - Мое призвание это препода
 	quick-minded - сообразительный
 	slow-minded - тугодум
 2) mind - рассудок
-	to be in one's right mind - быть в здрвом уме - No one in their right mind would walk here at night.
+	to be in one's right mind - быть в здравом уме - No one in their right mind would walk here at night.
 	to be (go) out of one's mind - сходить с ума (терять рассудок) - You are driving me out of my mind.
 3) mind - память
 	to keep something in mind - I will keep it in mind.
@@ -555,7 +555,7 @@ Neither - используется чтобы что-то подтвердить
 -------------------------------------------------------------------
 That is why. - Вот почему. - My son is sick, that's why I am home.
 -------------------------------------------------------------------
-We communicated mostly bt e-mail.
+We communicated mostly by e-mail.
 What does this word mean? What do you mean?
 -------------------------------------------------------------------
 ain't - am not, is not, are not, has not, or have not
@@ -616,6 +616,9 @@ it depends - по-разному
 copper - медяк
 Here you go - держите
 from there - оттуда с этого момента
+That's it - с меня хватит
+at all - совсем (вообще) - It does not matter at all.
+tend to - иметь склонность привычку - He tends to talk too much. Tom tends to exaggerate. - Том имеет привычку преувеличивать. 
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 It doesn't matter. - Это не имеет значения.
@@ -629,13 +632,237 @@ I'm done - Я закончил - I'm absolutely done after this journey.
 Never ever - никогда - You never ever offer to help!
 so am I - я тоже - You are late, so am i.
 not really - не очень
-Whatever. - Неважно.
+It was nothing - ничего особенного
+From now on - впредь
+stick around - не уходить
+try out - проверять
+sharp turn - крутой поворот
+everyone is off to - все ушли
+chat up lines - поболтать
+I'm wondering - Я хочу узнать
+neat freak - чистоплотен
+sloven - разгильдяй
+just there - только там
+i can't bear it - я не могу это вынести
+Are you cross about something? - Ты чем то недоволен?
+On the contrary - напротив
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 Don't get upset - Не расстаивайся
 Calm down - Успокойся - Calm down and tell me what happen.
 Take it easy - Не волнуйся
 Don't get mad - Не сердись
+<<<<<<< HEAD
+Cool it - Успокойся
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+to wear - She always wears beautiful dresses.
+to dress - одевать кого-либо, наряжаться в кого-либо - My mom dressed her child.
+to put on - надевать какой-либо предмет одежды - Don't foget to put on your hat.
+to get dressed - одеваться - He got dressed and went to work.
+to be dressed in / to be wearing - быть одетым во что-то - She is dressed in a red skirt.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Watch out - Осторожно. Берегись.
+Heads up - Будь внимателен.
+Be careful - Будь осторожен.
+Watch yourself - Будь осторожен.
+Keep away - Держись подальше.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+it is looks like - выглядеть - It is look like it's going to rain.
+be really good at - быть хорошим в чем-то
+here we go - вперед
+here we go - вот, держите
+Here we go again - опять 25
+hold on - держаться, подождать - Hold on a minume
+yuiky - мерзкий - The water was dirty and smelled yuiky.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+run - управлять - I'am running my own business.
+run - курсировать - This bus doesn't run on at night.
+run - длиться - The film runs for 2 hours.
+run - работать - The heater run on oil.
+run over - задавить - I was alwost run over by this car.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+to put somebody on - издеваться над кем-то - Are you putting me on?
+to barge in - являться без приглашения
+to turn to - обращаться
+to go for - продоваться по определенной цене - How much was it going for?
+in order to - для того чтобы
+to have (got) what it takes - обладать всем необходимым - You think you got what it takes?
+there is it - так-то - вот и все - вот и он
+What is the point of ... - Какой смысл?
+There you are - Вот держите
+so do i - я тоже 
+neither do i - и я нет
+Don't you? I do.
+I'd rather - Я бы предпочел - I'd rather go to the movies.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Nope - нет
+I don't agree.
+I'm not sure about that.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+To you! - За тебя! - Here is to you.
+To you health! - За твое здоровье!
+To you success! - За твой успех!
+I would like to propose a tost.
+Buttons up! - До дна!
+Cheers! - За здоровье!
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+to break - ломать - He has broken his watch.
+break - перерыв - Let's have a break.
+to break - разоряться - The bank broke.
+to break - нарушать - He never brokes his promises.
+to break into tears - She broke into tears when she got to know the news.
+to break into laughter - She broke into laugher when she heard my joke.
+to break up - расставаться
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+to be good at - быть в чем-то хорошим - I'm good at learning languages.
+to be hand at / with - He was a good hand at football.
+to know a thing or two - разбираться в чем-то - He knows a thing or two about cars.
+to know the ropes - хорошо разбираться в своем деле - He is a man who knows the ropes.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+You won't believe this
+I've got some incredible news
+Listen to this
+Something amazing has happend
+I'm writting to apply for a job
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+I had no idea - Я понятния не имел - I had no idea he liked dogs.
+I didn't no - Я не знал - I didn't know you liked dogs.
+You are so right
+I couldn't agree more
+Absolutely
+That is wrong
+I completely disagree with that
+I absolutely disagree
+he likes you either - Ты тоже ему нравишься
+go with a bang - прошел на ура
+dressing up - наржаться
+deal over - сдел с
+come round - приходить в себя
+ouija board - доска для спирических сеансов
+stay tune - оставайтесь с нами
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+What do you think about ... ?
+reminds me of
+makes me think of
+made us do - заставила нас сделать
+the day off work - выходной день
+Oh no, you are not! - Нет, вы не можете.
+Where were you last night?
+She wants him to cook dinner? - Она хочет, чтобы он готовил ужин?
+changes his mind - передумал
+I think it's going to rain. - Do you?
+get lost - убирайся
+carol sing - рождественская песня
+nothing will stop - ничего не остановит
+Exams make me nervous.
+I'm studing English to get a better job.
+Chiristmas grotto - мастерская санты
+What's the name of that thing you use to open door?
+What's the name of that machine that print text on paper.
+He is seeing someone else. - Он встречается с кем-то другим.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+to be able to - мочь, быть способным
+to be meant to - задуман, как / должен быть, как - I was meant to teach. - This play is meant to be good.
+to be about to - мы уже собирались / мы уже почти - I am about to leave.
+to be due to - должен (к определенному моменту) - His new book is due to published next year.
+to be likely to - скорее всего - It's very likely to rain tomorrow.
+to be supposed to - быть должным, предполагаться - You were supposed to open the door.
+to be interested in + Ving - быть в чем-то заинтересованным - I am interesting in learning English.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+It takes me two hours to do my English homework. - Это занимает два часа, чтобы сделать домашнее задание по английскому.
+It is beatiful. - Это красиво.
+It is 4 o'clock.
+It happens that today is my birthday.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+strong suit - сильная сторона
+not give a dawn - наплевать
+i was told - мне сказали
+he could hardly - он едва мог
+commence a conversation - начать разговор
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+to be in need of something - нуждаться в чем-либо - The house is in need of repairs.
+A friend is need is a friend indeed.
+needs - нищета, будность, нужды - They don't enough food to meet their needs.
+to need - нуждаться - He needs rest.
+to need - требовать - The letter needs no reply.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+discount - скидка
+make a disсount - сделать скидку - Could you make a discount me please?
+count - считать - I have count my money.
+count on - рассчитывать - You can always count on me.
+count somebody in - включить кого-то в списки - Count me in. - Я свами.
+counter - прилавок - A shopman was at the counter.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+The winter was very frosty last year. - Используем the, когда говорим про конкртное время года.
+Если говорим про общее время года, то артикль не нужен - Some people go to the seaside in summer.
+Если стоит прилагательное, то нужно поставить неопределенный артикль - We have a long winter in Siberia.
+С early и late артикль не используется - The best time in England is spring and early summer.
+Если время года идет после of, то артикль также не используем - the first snow of winter
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+to have a finger in every pie - в каждой бочке затычка - She does really have a finger in every pie.
+to be all ears - внимательно слушать - She was all ears.
+to be down in the mouth - повесить нос - You just seemed a bit down in the mouth.
+to apple of one's eyes - зеница ока - His daughter is the apple of his eyes.
+to cost an arm and a leg - стоить очень дорого - My new flat cost me an arm and a leg.
+to shout at the top of one's voice - кричать во все горло
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+to come true - сбываться - Some day your dream will come true.
+all i want for - все что я хочу на рождество
+run in her stocking - стрелка на чулке
+wish for - желать - What more can you wish for?
+to keep on - продолжать - He keeps on asking silly questions.
+hold on tight - держись крепче
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+fire away - fire ahead - начать - Fire ahead, we're all listening!
+being set - to do something
+He asked whether he could help. = He asked if he could help. - Он спросил может ли он помочь. - I don't know whether she is here.
+to thrust - пихать, засовывать - I thrust my hand into my pocket.
+by now - уже, к настоящему времени - The kids are supposed to be in bed by now.
+come over/up(on) - охватывать (кого-либо) - Fear came over him as he entered the empty house.
+be fine about - не возвражать - They were fine about it.
+moron - идиот
+to walk over - подойти - Walk over to the mirrow and take a look youself.
+after a while - спустя некоторое время
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+full of fun - очень забавный
+exact meaning - точное значение - The sun was the exact image of his father.
+to have a baby - завести ребенка - She is going to have a baby.
+to get married - (предлог to - на ком) - To get married to him. - You're too young to get married.
+to laught at - She never laughts at my jokes.
+to fill with - наполнять чем-то - My house is filled with stuff.
+to ready for (smth)/to do smth - быть готовым к чему либо/ сделать что-то - We are ready for this. (c for ставиться существительное, с to глагол)
+to come in size - бывать (поставляться) в размере - These phones come in all shapes and sizes. - Does this come in my size?
+a kind of - почти (как бы) - That book was kind of freaky.
+fully commited - полностью приверженный
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+I don't want you to - Я не хочу чтобы ты - I want you to clean the dishes.
+I don't wanna slack off like I used to. (slack off - зря тратить время)
+Anything else? - Еще что-нибудбь? - Is there anything else you would like to add to your list?
+to pay for - оплачивать - I pay for my flat.
+=======
 Cool it - Успокойся 
 -------------------------------------------------------------------
 -------------------------------------------------------------------
@@ -654,3 +881,4 @@ You dress looks amazing.
 You have a taste in clothers.
 You dress suits you.
 I love you choice.
+>>>>>>> 6d8164a12103a7a0ea2ff80cb2d8c140ee7086b1
