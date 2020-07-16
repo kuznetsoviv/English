@@ -862,8 +862,6 @@ I don't want you to - Я не хочу чтобы ты - I want you to clean the
 I don't wanna slack off like I used to. (slack off - зря тратить время)
 Anything else? - Еще что-нибудбь? - Is there anything else you would like to add to your list?
 to pay for - оплачивать - I pay for my flat.
-=======
-Cool it - Успокойся 
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 How dare you? - Как вы смеете?
@@ -881,4 +879,42 @@ You dress looks amazing.
 You have a taste in clothers.
 You dress suits you.
 I love you choice.
->>>>>>> 6d8164a12103a7a0ea2ff80cb2d8c140ee7086b1
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+I'm being serious. - В данной конкретной ситуации я скрьезный.
+I am serious. - Серьезность - это черта характера.
+What happened to your friend? - Что случилось с твоим другом?
+Why would I ...? - Зачем мне ...? - Why would i want to do that?
+right now - I cann't talk right now. I'm running late.
+funny - странный - There's something funny about it. 
+There you are 
+	+ Вот вы где / А вот и ты
+	+ Вот вам / Держите / Получайте
+	+ Дело сделано / Вот и все
+head of department - начальник отдела
+jinx - сглазить (проклятие) - Somebody must have jinxed him.
+frisky - игривый, резвый - frisky kitty
+to get going - отправляться, начинаться
+gotta = got to - должен (надо) - I gotta go home pick it up.
+high bar - турник
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+put - класть, ставить
+put in, put into - вставить, положить в - Put in the missed worlds.
+put on - положить на - Please, put the book on the table.
+put on - надеть - He put on his hat, took umbrella and left the room. (take off - снять одежду)
+put off - выключить (откладывать) - You can't put off the decision any longer.
+put away - положить на место - Please, put your toys away.
+put up with - мириться с чем-то - I can't put up with it any longer.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Неисчисляемы существительные:
+	hair - 
+		неисчисляемое - Her hair is good. I have long and dark hair.
+		исчисляемое - Если видим конкретный волос, то используем артикль - There is a hair in my soup.
+	time - 
+		неисчисляемое - I have some time. (have a good time, a long time ago - исключения)
+		исчисляемое - I saw him three times.
+	room -
+		неисчисляемое - room - свободное пространство - There is no room for personal life in the schedule.
+		исчисляемое - room - комната - There are two rooms in my house.	
