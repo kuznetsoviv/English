@@ -274,7 +274,7 @@ How about .. ? - How about coming to the party with us?
 		If we had known it is so expensive here, we would have come.
 -------------------------------------------------------------------
 -------------------------------------------------------------------
-Местоимение some (немного, несколько) (используется почти всегда в утвердительных предложениях) - I have same money.
+Местоимение some (немного, несколько) (используется почти всегда в утвердительных предложениях) - I have some money.
 	some of - некоторый из - Some of my friends are russians. (В этом случае нужно использовать указательное или притяжательное местоимение)
 	Использование:
 	1) неисчисляемое существительное (немного) - There is some water in the bottle.	
@@ -338,7 +338,6 @@ Who - Whom - Whose
 	2) Признак инфинитива - I want to eat.
 	3) Предлог о времени - I will be busy from 5 to 6.
 	4) Чтобы - I learn English to work abroad. I go to the shop to buy some milk.
-<<<<<<< HEAD
 	5) Дательный подеж - I wrote a letter to her. I gave my present to him.	
 -------------------------------------------------------------------
 -------------------------------------------------------------------
@@ -426,4 +425,12 @@ from .. to - есть и начало и конец - I was reading this book fr
 	+ по ошибке - I've called you by mistake.
 	+ когда говорим о создателе - This novel is by Mark Twain.
 		+ используем with, когда нужно добавить какой-то инструмент - I would like to eat a porridge with a spoon.	
-
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Артикли используются только перед существителльными.
+	I want to drink coffee. - Я хочу выпить кофе.
+	Come over for a drink tonight. - Приходи сегодня, чего-нибудь выпьем.
+	The play was great. - My favorite team will play tomorrow.
+	We decided to go for a walk.
+Артикль a произошел от слова one.
+	I will call you back in one hour. - I will call you back in an hour. 
