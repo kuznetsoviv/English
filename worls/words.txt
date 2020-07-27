@@ -135,3 +135,4 @@ altitude - высота
 slackline - канат
 porridge - овсяная каша
 tuck away - убрать
+remainded - уцененные

@@ -448,7 +448,16 @@ from .. to - есть и начало и конец - I was reading this book fr
 		a few - I have a few friends.
 		a little - I have a little milk.
 		a lot of - I have a lot of friends in Bali.
-		for along time - I haven't seen you for a long time.
+		for a long time - I haven't seen you for a long time.
 		to for a walk - Let's go for a walk.
-		in a hurry, in a rush - спешить - Sorry, i can't talk now. I am hurry.
-		to have a good time - We had a good time in Spain.				
+		in a hurry, in a rush - спешить - Sorry, i can't talk now. I am in a hurry.
+		to have a good time - We had a good time in Spain.
+Использование артикля the:
+	Определенный артикль не используется с местоимениями.
+	С местоимениями some, any, no - тоже не используется артикль.
+	This laptop is good. - The laptop is good.
+	1) единственный предмет в мире - the sun, the moon, the internet - The Sun is up in the sky.
+	2) единственный предмет в обстановке - Close the door, please.
+	3) стороны света - the North, the South, the East, the West - Sometimes she go to the South of the island.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
