@@ -117,7 +117,7 @@ emerge - появляться														propelled by - движимый
 unseat - лишать места													piggyback - комбинированный
 inbound - прибывающий													discourage - отговаривать
 outbound - исходящий													warrant - требует
-peek - взгляд
+peek - взгляд															compete - конкурировать	
 meager - скудный (мизерный)
 awry - косой
 that is up to - является задачей
@@ -129,3 +129,16 @@ at first though - хотя поначалу
 jubilant - ликующий
 flout - пренебрегать
 ups and downs - взлеты и падения 
+ram - таран
+startle - испуг
+into the distance - вдаль
+sheer - чистый
+bid - предложение
+in his track - на его дороге
+for the occasion - по случаю
+shed - пролить
+intact - неповрежденный
+implication - соучаствие, замешенность
+square - прямо
+ultimate - окончательный
+saturate - насыщение
