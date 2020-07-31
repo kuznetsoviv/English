@@ -96,14 +96,36 @@ retardant - замедлитель													encounter - встретить
 spare - запасной														brisk - быстрый
 nourishment - пища 														scour - прочесывать	
 vigil - бодрствование													retailer - розничный торговец
-meadow - газон
-hose - шланг
-nibble - откусывать
-cuisine - кухня
-dilute - разбавлять
-submerse - погружаться
-nutrient - питательное вещество
-acute - сильный
-submerge - затоплять
-involuntary - непроизвольный
-retrieve - извлекать
+meadow - газон															tyre - шина
+hose - шланг															wade - брод (перейти бродом)
+nibble - откусывать														pay off - расплачиваться			
+cuisine - кухня 														interoperate - взаимодействие
+dilute - разбавлять 													extant - сохранившийся		
+submerse - погружаться 													payload - полезная нагрузка
+nutrient - питательное вещество 										there are still - все еще есть
+acute - сильный 														controversy - полемика (спор)
+submerge - затоплять 													tends - имеет тенденцию
+involuntary - непроизвольный 											errant - блуждающий	
+retrieve - извлекать													piece - собирать
+resort - прибегать 														curb - узда
+downpour - ливень 														overlap - перекрытие
+profusion - изобилие 													stem - происходить
+groceries - бакалейные товары 											charcoal - древестный уголь	
+shady - сомнительный 													in line with - to according
+encompass - заключать в себя											propelled - самоходный
+emerge - появляться														propelled by - движимый
+unseat - лишать места													piggyback - комбинированный
+inbound - прибывающий													discourage - отговаривать
+outbound - исходящий													warrant - требует
+peek - взгляд
+meager - скудный (мизерный)
+awry - косой
+that is up to - является задачей
+bandsaw - ленточная пила
+inappropriately - неподобающе
+boils down - сводиться к тому
+contradict - противоречат
+at first though - хотя поначалу
+jubilant - ликующий
+flout - пренебрегать
+ups and downs - взлеты и падения 
