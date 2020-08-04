@@ -130,9 +130,16 @@ rarely - редко																	aquarium - аквариум
 stammer - заикание 																lunge - выпад
 shearing - стрижка овец 														dispatch - отправлять
 you points - и так далее 														hilarity - веселье
-skate - морской конек
-altitude - высота
-slackline - канат
-porridge - овсяная каша
+skate - морской конек 															single-file - гуськом
+altitude - высота																afford - позволять себе
+slackline - канат 																bargain - сделка
+porridge - овсяная каша 														hassle - склока, стычка
 tuck away - убрать
 remainded - уцененные
+bask - греться
+squalid - нищенский
+spiffy - элегантный
+strum - бренчать
+mercury - ртуть
+resort - курорт
+strain - штамм

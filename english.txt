@@ -344,6 +344,7 @@ from .. to - есть и начало и конец - I was reading this book fr
 	+ in the picture
 	+ in the sun
 	+ (любые погодные условия) in the rain - in the shade - in good weather
+	in my opinion
 2) on - на (на какой-то поверхности) - There is a dirty mark on your cheek.
 	+ на общественном транспорте - on the plane (bus, train)
 	+ на велосипеде - on bike
@@ -358,6 +359,8 @@ from .. to - есть и начало и конец - I was reading this book fr
 	+ в целом - on the whole - Sometimes I have problems at work but on the whole I like it.
 	+ отпуск - on holiday - Sorry, I am on holiday now and I don't want to discuss my job. (on a cruise, on a tour)
 		to go to a place for a holiday - We have decided to go to Egypt for a holiday.
+	+ поездка - on a trip, on a tour, on business
+	+ сайты - использование предлога on - on youtube
 3) at
 	+ когда мы находимся рядом с чем-то	(I am at your door. Can i come in?)
 	+ когда сидим за столом или работаем за компьютером - I am at the table. I work at the computer.
@@ -400,7 +403,21 @@ from .. to - есть и начало и конец - I was reading this book fr
 		+ если говорим про наличные, то вообще не используем предлог или используем in - I would like to pay (in) cash.
 	+ по ошибке - I've called you by mistake.
 	+ когда говорим о создателе - This novel is by Mark Twain.
-		+ используем with, когда нужно добавить какой-то инструмент - I would like to eat a porridge with a spoon.	
+		+ используем with, когда нужно добавить какой-то инструмент - I would like to eat a porridge with a spoon.
+17) with
+	+ что-то было сделано при помощт чего-то - The baby kept banging the table with his spoon. You kill me with a sword.
+18) because of / due to 
+	+ по причине чего-либо, из-за чего-либо - We are at home because of bad weather. You headackes are due to stress.
+19) about 
+	+ касательно чего-либо - We were talking about you. Do you know about it?
+20) of 
+	+ принадлежность - The door of the house is open.	
+-------------------------------------------------------------------	
+Ошибки с предлогами:
+	Не используется предлог to + home, here, there - I need to go home.
+	Когда играем на каком-то музыкальном инструменте, то тоже не используем предлог - Do you know how to play the piano?
+	Когда что-то едим, используем предлог for - I have sandwiches for breakfast. What's for lunch?
+	Предлоги не ставятся со словами - last, next, every - This couple broke up last May.		
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 Артикли используются только перед существителльными.
