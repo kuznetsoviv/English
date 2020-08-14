@@ -68,7 +68,7 @@ Present continuous:
 ------------------------------------------------------ 
 Present perfect:
 I has bought this car.
-I have not boutht this sofa.
+I have not bought this sofa.
 Слова маркеры:
 never, ever, often, just, already, yet, always, seldom, today, this morning 
 Употребление:
@@ -87,6 +87,9 @@ never, ever, often, just, already, yet, always, seldom, today, this morning
 	I have never been to China.
 4) Действие происходит в первый (второй, третий раз)
 	It's the first time I've been here.
+5) События недавнего прошлого:
+	He has come back recently.
+	I've worked hard lately.	
 ------------------------------------------------------ 
 ------------------------------------------------------ 
 Предлоги:
@@ -454,3 +457,58 @@ from .. to - есть и начало и конец - I was reading this book fr
 	3) стороны света - the North, the South, the East, the West - Sometimes she go to the South of the island.
 -------------------------------------------------------------------
 -------------------------------------------------------------------
+Образование сравнительной степени прилагательных (наречий):
+	к односложным прилогательным (наречиям) добавлем окончание er:
+		cheap - cheaper - I travel economy class because it is cheaper.
+		large - larger
+		fast - faster
+		tender - tenderer
+		yellow - yellower
+	с многосложными прилагательными (наречиями) используем more:
+		serious - more serious - more seriously - It is more serious than you thought.
+		often - more often
+		comfotable - more comfotable 
+	окончание -er добовляем к словам оканчивающимся на -y, -er, -ow:
+		easy - easier - Things will get easier as time goes by. 
+		pretty - prettier - Natalie was prettier than her sister.
+		tender - tenderer
+	more - к словам оканчивающимся на ly (исключение - early - earlier)
+		easily - more easily
+		seriously - more seriously
+	Использование than при образовании сравнительной степени:
+		This house is bigger than my.
+Образование превосходной степени прилогательных (наречий):
+	к односложным прилагательным добавляется артикль the и окончание -est
+		long - the longest
+		cold - the coldest
+		new - the newest
+	с многосложными прилагательными используется the most:
+		famous - the most famous
+		boring - the most boring
+		difficult - the most difficult
+	к многосложным прилагательным добавляется артикль the и окончание -est, если они заканчиваются на -y, -er, -ow
+		funny - the funniest
+		easy - the easiest
+		narrow - the narrowiest
+	Перед наречиями в превосходной степени не ставится the:
+		She came earliest.
+		She sang most beatifully.
+Прилагательные и наречия для которых можно использовать оба способа образования превосходной степени:
+	clever, often, narrow, quickly, angry, polite, simple, cruel, common, stupid, pleasant, gentle
+		clever - cleverer - more clever - the cleverst, the most clever
+		The street is narrower / more narrow then road.
+Со сравнительной степенью прилогательных можно использовать слова:
+	much, a lot, far (a lot), a bit, a little, slighty (a little)
+		Let's go by car. It's much cheaper (a lot cheaper).
+		Could you speak a bit more slowly?
+Часто используется с Present perfect:
+	What's the most intresting film you've ever watched?
+	She is the most quiet person I've ever met.				 
+Сложное слово:
+	far - farther - farthest
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+
+
+
+
