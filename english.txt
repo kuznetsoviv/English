@@ -508,6 +508,27 @@ from .. to - есть и начало и конец - I was reading this book fr
 	far - farther - farthest
 -------------------------------------------------------------------
 -------------------------------------------------------------------
+Различия между my - mine; your - yuors; her - hers; their - theirs.
+Местоимения mine, yours, hers, theirs - самодостаточные
+This is my bag. - The bag is mine.
+This is my article. - The article is mine.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Present simple:
+	We write a lot of letters every day. - A lot of letters are written every day.
+Present continuous:
+	They are writting a letter now. - The letter is being written now.
+	I am reading a book. - The book is being read by me.
+Past simple:
+	They wrote a lot of letters yesterday. - A lot of lettes were written yesterday.	
+Past continious:
+	When i came, they were writing letter. - When i came, the letters were being written.
+Present perfect:
+	The police have arrested the robbers. - The robbers have been arrested by the police.
+Past perfect:
+	
+
+
 
 
 
