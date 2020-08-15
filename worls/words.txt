@@ -5,5 +5,7 @@ game - игра
 	to be game for anything - быть готовым на все
 		He wants to be with you, he is game for anything.
 	at this stage of the game - в определенный момент
-		At this stage of game it is impossible to change our plants.	
+		At this stage of game it is impossible to change our plants.
+-------------------------------------------------------------------
+-------------------------------------------------------------------			
 			

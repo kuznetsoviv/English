@@ -526,8 +526,15 @@ Past continious:
 Present perfect:
 	The police have arrested the robbers. - The robbers have been arrested by the police.
 Past perfect:
-	
-
+	When i arrived at the office the secretary had already sent the letter.
+	When i arrived at the office the letter had been sent.	
+Future simple:
+	The secretary will send this letter tomorrow. - This letter will be sent tomorrow.
+Future perfect: 
+	The secretary will have sent this letter by 5 o'clock. - The letter will have been sent by 5 o'clock.
+Modal verbs:
+	The secretary can send this letter now. - This letter can be sent now.
+	You must deliver the mail in the morning. - Mail must be delivered in the morning.		
 
 
 

@@ -128,22 +128,22 @@ jug - кувшин																	char - обжарить													borough -
 affair - роман																	take out - вынуть	 											sneak peak - подглядывать
 rarely - редко																	aquarium - аквариум 											orphant - сирота
 stammer - заикание 																lunge - выпад                                                   poke out - высовываться
-shearing - стрижка овец 														dispatch - отправлять
-you points - и так далее 														hilarity - веселье
-skate - морской конек 															single-file - гуськом
-altitude - высота																afford - позволять себе
-slackline - канат 																bargain - сделка
-porridge - овсяная каша 														hassle - склока, стычка
-tuck away - убрать 																blazer - пиджак
-remainded - уцененные 															misogyny - женоненавистничество
-bask - греться																	herbivore - травоядный
-squalid - нищенский																jaw-dropping - потресающий
-spiffy - элегантный
-strum - бренчать
-mercury - ртуть
-resort - курорт
-strain - штамм
-eye-popping - сногшибательный
+shearing - стрижка овец 														dispatch - отправлять 											erect - возвести
+you points - и так далее 														hilarity - веселье												en route - в пути	
+skate - морской конек 															single-file - гуськом 											cold snap - резкое похолодание		
+altitude - высота																afford - позволять себе											cork - прятать		
+slackline - канат 																bargain - сделка 												lead up - подготовка
+porridge - овсяная каша 														hassle - склока, стычка 										contemplation - созерцание
+tuck away - убрать 																blazer - пиджак 												laid back - спокойный
+remainded - уцененные 															misogyny - женоненавистничество 								frantic - неистовый
+bask - греться																	herbivore - травоядный											major - специальность
+squalid - нищенский																jaw-dropping - потресающий 										incredulous - недоверчиво
+spiffy - элегантный																tear down - разбирать 											dispute - спор		
+strum - бренчать 																spare - лишний													ballot - голос
+mercury - ртуть																	adopt - отменять												subside - утихать
+resort - курорт																	runway - взлетная полоса 										cranny - щель
+strain - штамм																	skid off - соскользить											workout - решить, разобраться с чем-то
+eye-popping - сногшибательный 													entwine - сплетаться 											promulgation - пропоганда
 meadow - поляна
 swipe - красть
 span - покрывать
