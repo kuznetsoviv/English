@@ -1229,10 +1229,10 @@ retirement - выход на пенсию
 to sack/fire/dismiss - I was sack two month ago.
 redundant - уволенный - Molly was made redundant.
 resignation - заявление на увольнение - Today i handled in my resignation.
-to aspire to - претендовать
+to aspire to - претендовать - I aspire to promotion.
 to anticipate - ожидать чего-то
 education background - образование
-I feel an urge to do intresting thing.
+I feel an urge to do intresting things.
 I am intended on visiting other city.
 I am eager to read a book.
 to aim for - стремиться к чему-либо - I am aim for change job.
@@ -1242,3 +1242,33 @@ above all - помимо всего
 sum up - резюмировать
 officiate - исполнять обязанности - He officiates their wedding.
 I am passionate about English. - Я увлечен английским.
+I am so glad to hear you.
+I have meaning to write to you for ages but ..
+I have taken such a long time to reply to you last letter.
+for days on end - в течении наскольких дней вподряд
+Who played the leading parts?
+to check in with you - связаться с вами
+to keep on eye on something - не спускать глаз
+Just then, I want to take a walk, It must start raining.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+cantcha = can't you
+lemme - let me
+gimme - give me
+gotcha - i have got you
+musta - must have
+em ('em) - them
+whassup - what is up
+c'me = come on
+g'by - good by
+'scuse - excuse
+ain't - am not/is not/are not/have not/has not
+dontcha - don't you
+dunno - don't know
+uw - you are welcome
+bb - bye bye
+np - no problem
+asap - as soon as possible
+lu - love you
+-------------------------------------------------------------------
+-------------------------------------------------------------------
