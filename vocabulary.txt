@@ -104,7 +104,7 @@ dilute - разбавлять 													extant - сохранившийся
 submerse - погружаться 													payload - полезная нагрузка
 nutrient - питательное вещество 										there are still - все еще есть
 acute - сильный 														controversy - полемика (спор)
-submerge - затоплять 													tends - имеет тенденцию
+submerge - затоплять 													tend - имеет тенденцию
 involuntary - непроизвольный 											errant - блуждающий	
 retrieve - извлекать													piece - собирать
 resort - прибегать 														curb - узда
