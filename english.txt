@@ -68,7 +68,7 @@ Present continuous:
 ------------------------------------------------------ 
 Present perfect:
 I has bought this car.
-I have not boutht this sofa.
+I have not bought this sofa.
 Слова маркеры:
 never, ever, often, just, already, yet, always, seldom, today, this morning 
 Употребление:
@@ -87,6 +87,9 @@ never, ever, often, just, already, yet, always, seldom, today, this morning
 	I have never been to China.
 4) Действие происходит в первый (второй, третий раз)
 	It's the first time I've been here.
+5) События недавнего прошлого:
+	He has come back recently.
+	I've worked hard lately.	
 ------------------------------------------------------ 
 ------------------------------------------------------ 
 Предлоги:
@@ -344,6 +347,7 @@ from .. to - есть и начало и конец - I was reading this book fr
 	+ in the picture
 	+ in the sun
 	+ (любые погодные условия) in the rain - in the shade - in good weather
+	in my opinion
 2) on - на (на какой-то поверхности) - There is a dirty mark on your cheek.
 	+ на общественном транспорте - on the plane (bus, train)
 	+ на велосипеде - on bike
@@ -358,6 +362,8 @@ from .. to - есть и начало и конец - I was reading this book fr
 	+ в целом - on the whole - Sometimes I have problems at work but on the whole I like it.
 	+ отпуск - on holiday - Sorry, I am on holiday now and I don't want to discuss my job. (on a cruise, on a tour)
 		to go to a place for a holiday - We have decided to go to Egypt for a holiday.
+	+ поездка - on a trip, on a tour, on business
+	+ сайты - использование предлога on - on youtube
 3) at
 	+ когда мы находимся рядом с чем-то	(I am at your door. Can i come in?)
 	+ когда сидим за столом или работаем за компьютером - I am at the table. I work at the computer.
@@ -400,7 +406,21 @@ from .. to - есть и начало и конец - I was reading this book fr
 		+ если говорим про наличные, то вообще не используем предлог или используем in - I would like to pay (in) cash.
 	+ по ошибке - I've called you by mistake.
 	+ когда говорим о создателе - This novel is by Mark Twain.
-		+ используем with, когда нужно добавить какой-то инструмент - I would like to eat a porridge with a spoon.	
+		+ используем with, когда нужно добавить какой-то инструмент - I would like to eat a porridge with a spoon.
+17) with
+	+ что-то было сделано при помощт чего-то - The baby kept banging the table with his spoon. You kill me with a sword.
+18) because of / due to 
+	+ по причине чего-либо, из-за чего-либо - We are at home because of bad weather. You headackes are due to stress.
+19) about 
+	+ касательно чего-либо - We were talking about you. Do you know about it?
+20) of 
+	+ принадлежность - The door of the house is open.	
+-------------------------------------------------------------------	
+Ошибки с предлогами:
+	Не используется предлог to + home, here, there - I need to go home.
+	Когда играем на каком-то музыкальном инструменте, то тоже не используем предлог - Do you know how to play the piano?
+	Когда что-то едим, используем предлог for - I have sandwiches for breakfast. What's for lunch?
+	Предлоги не ставятся со словами - last, next, every - This couple broke up last May.		
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 Артикли используются только перед существителльными.
@@ -437,3 +457,86 @@ from .. to - есть и начало и конец - I was reading this book fr
 	3) стороны света - the North, the South, the East, the West - Sometimes she go to the South of the island.
 -------------------------------------------------------------------
 -------------------------------------------------------------------
+Образование сравнительной степени прилагательных (наречий):
+	к односложным прилогательным (наречиям) добавлем окончание er:
+		cheap - cheaper - I travel economy class because it is cheaper.
+		large - larger
+		fast - faster
+		tender - tenderer
+		yellow - yellower
+	с многосложными прилагательными (наречиями) используем more:
+		serious - more serious - more seriously - It is more serious than you thought.
+		often - more often
+		comfotable - more comfotable 
+	окончание -er добовляем к словам оканчивающимся на -y, -er, -ow:
+		easy - easier - Things will get easier as time goes by. 
+		pretty - prettier - Natalie was prettier than her sister.
+		tender - tenderer
+	more - к словам оканчивающимся на ly (исключение - early - earlier)
+		easily - more easily
+		seriously - more seriously
+	Использование than при образовании сравнительной степени:
+		This house is bigger than my.
+Образование превосходной степени прилогательных (наречий):
+	к односложным прилагательным добавляется артикль the и окончание -est
+		long - the longest
+		cold - the coldest
+		new - the newest
+	с многосложными прилагательными используется the most:
+		famous - the most famous
+		boring - the most boring
+		difficult - the most difficult
+	к многосложным прилагательным добавляется артикль the и окончание -est, если они заканчиваются на -y, -er, -ow
+		funny - the funniest
+		easy - the easiest
+		narrow - the narrowiest
+	Перед наречиями в превосходной степени не ставится the:
+		She came earliest.
+		She sang most beatifully.
+Прилагательные и наречия для которых можно использовать оба способа образования превосходной степени:
+	clever, often, narrow, quickly, angry, polite, simple, cruel, common, stupid, pleasant, gentle
+		clever - cleverer - more clever - the cleverst, the most clever
+		The street is narrower / more narrow then road.
+Со сравнительной степенью прилогательных можно использовать слова:
+	much, a lot, far (a lot), a bit, a little, slighty (a little)
+		Let's go by car. It's much cheaper (a lot cheaper).
+		Could you speak a bit more slowly?
+Часто используется с Present perfect:
+	What's the most intresting film you've ever watched?
+	She is the most quiet person I've ever met.				 
+Сложное слово:
+	far - farther - farthest
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Различия между my - mine; your - yuors; her - hers; their - theirs.
+Местоимения mine, yours, hers, theirs - самодостаточные
+This is my bag. - The bag is mine.
+This is my article. - The article is mine.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Present simple:
+	We write a lot of letters every day. - A lot of letters are written every day.
+Present continuous:
+	They are writting a letter now. - The letter is being written now.
+	I am reading a book. - The book is being read by me.
+Past simple:
+	They wrote a lot of letters yesterday. - A lot of lettes were written yesterday.	
+Past continious:
+	When i came, they were writing letter. - When i came, the letters were being written.
+Present perfect:
+	The police have arrested the robbers. - The robbers have been arrested by the police.
+Past perfect:
+	When i arrived at the office the secretary had already sent the letter.
+	When i arrived at the office the letter had been sent.	
+Future simple:
+	The secretary will send this letter tomorrow. - This letter will be sent tomorrow.
+Future perfect: 
+	The secretary will have sent this letter by 5 o'clock. - The letter will have been sent by 5 o'clock.
+Modal verbs:
+	The secretary can send this letter now. - This letter can be sent now.
+	You must deliver the mail in the morning. - Mail must be delivered in the morning.		
+
+
+
+
+
