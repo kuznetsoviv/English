@@ -1275,8 +1275,8 @@ lu - love you
 The road is the best way to our home.
 He does not like the way she speaks.
 Our mother losts her way in the wood.
-way in - вход - Where is the way out?
-way out - выход - I can't find the way in.
+way in - вход - Where is the way in?
+way out - выход - I can't find the way out.
 These way, please. - Сюда, пожалуйста.
 Going my way? - Нам по пути.
 On my way to work, I always grab some coffee.
@@ -1285,3 +1285,64 @@ the lose one's way - сбиться с пути - The dog lost it in the car par
 to get out of somebody's way - Get out of my way.
 You know many ways of dancing.
 That way of travelling do you prefer?
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+ready for something - I am ready for this.
+ready to do something - I am ready to travel.
+I have dinner ready. - Я приготовил ужин.
+to get ready - I'd better go and get ready. - Я лучше пойду и собирусь.
+to get something ready - I need to go and get my report ready.
+ready to go - The project is ready to go. - Прожект готов к запуску.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+to had in mind - иметь в виду - That wasn't the world I had in mind.
+favorite favor - любтй вкус
+Do you need a hand? - Вам нужна помощь? 
+to be + being + прилагательное - поведение чнловека в определенной ситуации - I am being a culinary mastermind.
+You only have to ask. - Тебе надо только попросить.
+I think we should take it slow.
+can't held but smile - не могу сдержать улыбку
+Go along and get along - соответствовать общим ожиданиям
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+overcome - победить - After a tough battle, we overcame the enemy.
+overcome - преодолеть - He overcame the templation.
+overcome - быть охваченным - I was overcome with grief and rage.
+overcome - истощать (пассивный залог) - We were overcome by fatigue after the long journey.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+It didn’t take me long.
+Did it take her long time to get to the airport?
+what it takes - все, что требуется
+It is pissing it down. - It is raining.
+It is spitting it down. - It is dizzing.
+It is brass monkey out there. - It is cold.
+in the wake of - в результате
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+to make oneself at home - устраиваться как дома - Just wait for a second and make yourself at home.
+to feel blue - быть грустным - It makes me feel blue.
+to cost an arm and leg - стоить очень дорого - This bag costs an arm and leg.
+to work for peanuts - работать за копейки - to cost peanuts - стоить копейки - The dress costs peanuts.
+to have a sweet tooth - быть сладкоежкой - This girl has a sweet tooth.
+the calm before the storm - затишиье перед бурей - Things are relaxed at the moment but i think it's probably the calm before the storm.
+that's a piece of cake - это очень просто - That job is a piece of cake.
+to play the fool - валять дурака - He played the fool at school instead of studing.
+to clear the air - разрядить обстановку - I didn't know how to clear the air. 
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+можно использовать except или except for после слов:
+all, anybody, anything, anywhere, every, everything, everybody, everyone, everywhere, no, nothing, nobody, no one, nowhere, whole
+	She had nothing to do except spend money.
+	He ate the meal except for the beans.
+except + infinitive (без to) = but
+	We can do nothing except/but wait.
+except + me, him, us, etc.
+	Everybody undestands except me.
+except (not except for) перед предлогами, когда соединяем два предложения
+	It's the same everywhere except in Scotland.
+	She is beautiful except then she smiles.
+beside - рядом
+besides - кроме
+-------------------------------------------------------------------
+-------------------------------------------------------------------			
