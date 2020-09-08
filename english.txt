@@ -224,8 +224,12 @@ over - можеть использоваться, как: предлог, нар
 	2) выражение морального обязательства - We should think about wild life more often.
 	3) когда ожидаем, что что-то должно произойти - She has been studing hard for the exam. She should pass it.
 4) may/might - вероятно что-то произойдет - I may join you. - Я возможно присоединюсь к тебе. 
-	(may - большая вероятность, чте might).
-   may - используется, чтобы предложить какую-либо помощь - May i help you? - Я вам могу помочь? - вежливие, чем could 
+	(may - большая вероятность, чем might).
+   may - используется, чтобы предложить какую-либо помощь - May i help you? - Я вам могу помочь? - вежливие, чем could
+   прошедшее время:
+   		may have / might have (not have) + Ved (V3d) 
+   			She may have been a sleep. 
+   			You might have left your phone at work.
 5) have to - должен (недобровольное обязательство) - с ним используются вспомогутельные глаголы (do, did, does, will, ..)
 	Do you have to work on Sunday?   
 -------------------------------------------------------------------
