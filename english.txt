@@ -176,7 +176,7 @@ over - можеть использоваться, как: предлог, нар
 Устойчивые выражения:
 	over and over - снова и снова - He called me over and over.
 	all over the place - везде (повсеместно) - I looked for my book all over the place.
-	cry over split milk - жаловаться на то, что уже произошло
+	cry over split milk - жаловаться на то, что уже произошло - What's done cannot be undone, so it's no use crying over split milk.
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 Инфинитив - изначальная форма глагола (через частицу to) - to go, to come, to buy
@@ -313,7 +313,7 @@ Who - Whom - Whose
 	1 часть - как вопрос +
 	2 часть - как утверждение
 	Do you know where he works? - Ты знаешь где он работает?
-	Do you know where he is? - Ты знаешь где он?
+	Do you know where he is? - Ты знаешь где он?	
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 Использование частицы to:
@@ -518,6 +518,8 @@ This is my bag. - The bag is mine.
 This is my article. - The article is mine.
 -------------------------------------------------------------------
 -------------------------------------------------------------------
+Passive voice:
+-------------------------------------------------------------------
 Present simple:
 	We write a lot of letters every day. - A lot of letters are written every day.
 Present continuous:
@@ -538,9 +540,177 @@ Future perfect:
 	The secretary will have sent this letter by 5 o'clock. - The letter will have been sent by 5 o'clock.
 Modal verbs:
 	The secretary can send this letter now. - This letter can be sent now.
-	You must deliver the mail in the morning. - Mail must be delivered in the morning.		
-
-
-
+	You must deliver the mail in the morning. - Mail must be delivered in the morning.
+-------------------------------------------------------------------
+-------------------------------------------------------------------		
+Относительные местоимения (местоимения, которые вводят определительные придаточные предложения):
+	who (который, кто) 
+		говорим о людях, оно выполняет роль главного героя - 
+			I see a boy who is drawing.
+			The girl who gave me thr book has gone.
+	which (который, которого, что)
+		используем, чтобы выяснить кому принадлежит той или иной объект
+			That's the man whose car has been stolen.	
+	whose (который, которого, чей)
+		употребляется по отношению к неодушевленным предметам (считается книжным, в разговорном английском заменяется на that):
+			He ordered coffee which was promptly brought.
+		иногда в разговорной речи можно опускать это местоимение:
+			The pen which you took is mine. - The pen you took is mine.	
+	that (который, которого, что)
+		может употребляться по отношению к лицам, но чаще употребляется по отношению к неодушевленным предметам
+			They could not find anybody that (who) knew the town.
+-------------------------------------------------------------------
+-------------------------------------------------------------------	
+Фразовые глаголы с up - акцент на завершении какого-либо действия:
+	clear up - делать место опрятным
+	sweep up - удалить мусор
+	tidy up - сделать комнату опрятной
+	jumble up - сваливать в кучу
+	hang up - вешать что-то
+	clogged up - засоренный 
+	use up - исчерпать запасы
+	show up - являться
+	turn up - приходить, приезжать
+	liven up - оживлять
+	set up - устройство
+-------------------------------------------------------------------
+-------------------------------------------------------------------	
+Фразовые глаголы с частицей out - находится снаружи
+	leave out sth or leave sth out - не включать что-либо - For homework do exercise 8 but leave out 10.
+	cut out sth or cut sth out - вырезать - She cut some interesting articles out of the newspaper for us.
+	show out sb or show sb out - провожать до выхода - Let me show you out.
+	see out sb or see sb out - провожать кого-либо до двери его дома или квартиры - I can see you out.
+	let out sb / smt or let sb / smt out - выпустить кого-либо - The door will be locked but the receptionist will let you out.
+	lock out sb or lock sb out - запереться от кого-либо - I forgot my keys and was locked out of my own house.
+	lock youself out - случайно остаться снаружи
+-------------------------------------------------------------------	
+	spread out - распределять - He spread out the photos on the table so everyone could see them.
+	come out - выходить - The band has a new album coming out next month.
+	try out - проверить что-то - Would you like to try out the bike?
+	help out - помогать кому-то - My husband's business is so busy at the moment that I'm helping out in the office.	
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Фразовые глаголы с частицей up - направление вверх, повышение уровня, повышение интенсивности
+	wrap up - завернуть в бумагу
+	tie up - обмотать что-нитью или веревкой
+	blow up - надуть
+	pick up - подобрать
+	tore up - порвать
+	move up - немного подвинуться
+	slow up - задерживать
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Фразовые глаголы с частицей down - направление вниз, снижение уровня, снижение интенсивности
+	She fell down and broke her arm.
+	Can you reach that book down for me?
+	Slow down!			
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+move over - изменить место - Move over! I need to sit down.
+pop out - покинуть место - I'm just popping out for a newspaper.
+reach out - протягивать руку впереди себя - I reach out for the light switch.
+help smb on/off - помочь мне надеть / снять какой-либо предмет одежды - Can you help me on/off with these boots?
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Использование предлога to:
+	talk/ speak to somebody - I'would like to speak to the manager.
+	listen to - We spend the evening listening to music.
+	apologise to somebody for - The apologised to me for what happened.
+	explain something to somebody - Can you explain this word to me?
+Глагол to неиспользуется со следующими предлогами:
+	phone, call, email, text somebody, answer, ask, thank
+		He thanked me for helping him.
+Использование предлога at:
+	look, stare, glance at:
+	have a look / take a look at - взглянуть на
+		Why are you looking at me like that?
+	laught at:
+		I look stupid with this haircut. Everybody will laught at me.
+	smile at:
+		She smiled at me.				 
+Предлоги At и To вместе 
+	shout at somebody - кричать на кого-то
+		He got very angry and started shouting at me.
+	shout to somebody - кричать кому-то
+		He shoued to me from the other side of the street.
+	throw something at somebody - кидать что-то в кого-то
+		Somebody threw an egg at the minister.
+	throw something to somebody - кидать что-то кому-то
+		She threw the keys to me from the window.
+Предлог about:
+	talk/read/know about
+		talk somebody about ...
+		We talked about a lot of things at the meeting.
+	have a discussion about sth - We had a discussion about what we should do.
+	discuss - без about - We discussed a lot of things at the meeting.
+	do something about something - You should do something about it.
+Предлог for:
+	ask (somebody) for (только чтобы попросить что-то) - I ask them for more information.	 	
+	apply (TO a person, a company) FOR a job - I think you'd be good at this job. Why don't you apply for it?
+	wait for - Don't wait wait for me.
+	search (a person/a place/a bag) FOR ... - I've searched the house for my keys.
+	leave (a place) FOR another place - I haven't seen her since she left home for the office this morning.
+Предлоги about и for вместе 
+	care about somebody/something - думать, что кто-то или что-то важны для нас 
+		He doesn't care about other people.
+	care what/where/how - без about - You can do what you like. I don't care what you do.
+	care for somebody/something - любить что-то - I don't care for very hot weather.
+	take care of - присматривать, заботиться о сохранности
+		I can take care of myself.
+		I will take care of the travel arrangements.
+-------------------------------------------------------------------
+-------------------------------------------------------------------		
+Прилагательные с предлогами:
+	nice/kind/polite/generous/stupid/silly of somebody (to do something) - мило/любезно с твоей стороны
+		It is very kind of you to help me.
+		It is stupid of me to go out without a coat in such cold weather.
+	to be nice/kind/good/generous/polite/rude/friendly to somebody - быть любезным, щедрым, милым с кем-то
+		They always been very nice to me.
+		Why were you so unfriendly to Lucy?
+	to be angry/annoyed/furious/upset about something - разозленный, расстроенный чем-то
+		There's no point in getting angry about things that don't matter.
+		Lisa is upset about not being invited to the party.
+	to be angry/annoyed/furious/upset with somebody for doing something
+		Are you angry with me for being late?			
+	to be excited/worried/nervous/happy about a situation - волноваться/переживать по поводу какой-то ситуации
+		Are you nervous about the exam?
+		We are all so excited about the trip.
+	to be pleased/satisfied/happy/delighted/dissapointment with something you receive, or the result of something - довольный, удовлетворенный чем-то, что ты получил, либо результатами чего-то 
+		They were delighted with the present I gave them.
+		Were you happy with you exam results?
+	to be surprised/shocked/amased/astomished/upset at or by something - быть удивленным/шокированный/пораженным чем-то
+		Everybody was surprised at (or by) the news.
+		I hope you weren't shocked by (or at) what I said.
+	to be impressed with or by somebody / something - быть впечетленным кем-то/чем-то
+		I am very impressed with (or by) her English.
+	to be fed up/ bored with something - говорим, что что-то надоело/наскучило
+		I don't enjoy my job any more. I'm fed up with it. / I'm bored with it.
+	tired/ sick of something - быть уставшим от чего-то
+		I'm tired of (sick of) waiting.
+	to be sorry about a situatuion
+		I'm sorry about the mess. I'll clear it later.
+	sorry for or about something you did
+		Alex is sorry for (or about) what he said.
+	to be affraid/frightened/terrified of
+		Are you afraid of spiders?
+	to be found/proud/ashamed/jealous/envious of
+		Why are you always so envious of other people?
+	to be full/short of - быть полным чего-то/испытывать нехватку чего-либо
+		She is always full of energy.
+		I'm short of money.
+	to be good/bad/brilliant/better at
+		I am not good at repaing things.
+	to be married/engaged to
+		Louise is married to Ann.
+	to be similar to
+		Your writing is similar to mine.
+	to be different from 
+		The film is diffent from what I'd expected.
+	to be instrested in
+		Are you intrested in art?
+	to be keen on - быть заинтересованным
+		Chris wasn't keen on going out
+	to be responsoble for
+		Who was responsible for all that noise last night?	
 
 
