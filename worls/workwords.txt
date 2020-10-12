@@ -145,8 +145,8 @@ saturate - насыщение 													shard - осколок
 unscathed - невредимый													revoke - отозван		
 vouch - подтверждать													amber - янтарь	
 defer - отложить														adolescent - подросток
-literacy - грамотность
-foetal - зародыш
+literacy - грамотность													venue - место проведения	
+foetal - зародыш 														glow - светиться
 accomadation - место пребывания
 entrepreneur - бизнесмен
 venture - авантюра
@@ -157,3 +157,5 @@ far too - усиление прилагательного
 revoke - отозвать
 ulcer - язва
 incision - надрез
+abide - соблюдать
+incentivize - стимулировать
