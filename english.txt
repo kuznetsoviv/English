@@ -796,7 +796,7 @@ help smb on/off - помочь мне надеть / снять какой-ли�
 		Did they finish writing or reading article?
 		Do you work in the office or at home?
 	Разделительный вопрос (задавая такой вопрос человек пытается выразить сомнение, удивление):
-		My mother prefers mean to fish, doesn't she?
+		My mother prefers meat to fish, doesn't she?
 		I am pessimist, aren't i? - Yes, i am.
 		You can cook this dish, can't you? - No, you can't.
 		She doesn't go to the church, does she? - No, she doesn't.	
@@ -877,16 +877,16 @@ help smb on/off - помочь мне надеть / снять какой-ли�
 		и выноситься за пределы сказуемого:
 			I knew her but not as a friend.
 			Not that he did not know that.
-		частицв not ставятся перед инфинитивом:
+		частицы not ставятся перед инфинитивом:
 			To be or not to be?
-			They asked us not tell you about this.		
+			They asked us not to tell you about this.		
 	- с помощью отрицательных слов no/none/neither/nodody/never/nothing
 		примеры:
 			There are no flowers on the table.
 			There's no time for us.
 			I could hear nothing at all.
 			I don't like it neither.
-			Neigher of them spoke Jananese.
+			Neigher of them spoke Japanese.
 		ни ... ни - neither ... not
 			They will neither eat nor drink.
 			She is neither beatiful nor intelligent.
@@ -960,10 +960,27 @@ past continious:
 	He was made to do it.
 	They saw the boy borrow my bicycle. - The boy was seen to borrow my bicycle.
 После feel глагол to be используется с частицей to.
-	I felt it top be the truth.
+	I felt it to be the truth.
 После сочетаний had better (лучше бы), would rather, would soner(предпочел бы)	
 	We had better reserve a room in the hotel.
 	I'd rather have tea then coffee.
 В вопросительных предложениях, начинающихся с Why not - опускается подлежащее и частица to:
 	Why not go the cinema?
-	Why not stay with us?		
+	Why not stay with us?
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Past perfect:
+	Показывает на действие, которое произошло раньше другого действия или определенного момента в прошлом
+	Слова маркеры:
+		by - к какому времени, к какому моменту
+		after - после того, как
+		before - перед тем как
+		when - когда
+		earlier - раньше
+		first - сперва
+	1) показать действие, которое произошло до определенного момента в прошлом (часто используется by)
+		I had written the paper by 2 o'clock in the afternoon.
+	2) показать, что какое-то действие произошло раньше другого:
+		I came to see her, but she had left.
+	3) для объяснения причины, по которой произошло другое действие:
+		She couldn't call him because she had deleted his number.			
