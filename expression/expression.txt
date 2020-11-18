@@ -371,7 +371,7 @@ calling - призвание - Programming is my calling.
 nail - ноготь
 nail - гвоздь, забивать гвозди
 nail - приковывать внимание - He nailed the audience attention.
-spring -  весна
+spring - весна
 spring - прыгать (брызгать) - Tears sprang from her eyes. - Слезы потекли из ее глаз. - He sprang from the bed. 
 spring - пружина - This device didn't work without spring.
 spring - источник
@@ -1588,7 +1588,7 @@ class - курс обучения - the class of biology
 to be present at the lesson - присутствовать на уроке
 to be ready for a lesson - быть готовым к уроку
 I always get (receive) high marks in history.
-to do well in a subject - имкть успех в изучении какого-либо предмета
+to do well in a subject - иметь успех в изучении какого-либо предмета
 I have difficulties / problems in ... - У меня есть сложности / проблемы ...
 to put down homework - записать домашнее задание
 to do homework / task - выполнять домашнюю работу
@@ -1606,6 +1606,7 @@ tuition - плата за обучение - Tuition and room and board were mor
 scholarship - стипендия - She won a scholarship to study abroad.
 to sign up for ... - записаться на - I'm thinking of signing up for a yoga course.
 I take piaono lessons.
+I thought to myself. - Я подумал про себя.
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 прилагательное - both - оба, обе, и тот, и другой - Both my brother is good at football.
@@ -1675,4 +1676,165 @@ screw face - angry face
 	yesterday -> the day defore
 	these -> those
 	now -> then
-She told me, 'I will come to see you tomorrow'. She told me she will come to see me the next day.		
+She told me, 'I will come to see you tomorrow'. She told me she will come to see me the next day.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+work - работа, которую выполнряешь
+	They quit work at one o'clock.
+	They never do any work.
+to work in smth, to work with smth - работать с чем-то, в какой-то сфере
+	My son wants to work in IT when he grows up.
+to work for a company - работать на компанию
+	What do you work for?
+to work on - работать над чем-то (задание, проект)
+	I'm working on improving customer satisfaction.
+	I work for this presentation.
+job - занятие/работа/труд/служба, но указывает на Вашу позицию на работе
+	I'm very fond of my job. (Люблю работу, за которую получаю деньги)
+	What were you main responsibilities in your last job?
+work - неисчисляемое, job - исчисляемое
+career - карьера/профессия, достижение, успех
+	What are your career goals?
+	the climb the carrer ladder
+vocation (calling) - призвание/склонность/профессия
+	He has no vocation for teaching.
+	I don't think that management is my calling.
+by vocation - по роду своих занятий
+to have a vocation/calling for smth - иметь призвание к чему-либо
+	To become a doctor, you should really have a vocation for it.
+to find true vocation/calling - найти свое истинное призвание
+	At 17 she found her true vocation as a writer.
+to follow one's vocation - следовать свою ему призванию
+	He followed his vocation and became an accountant.
+to mistake one's vocation - ошибиться в выборе призвания
+	He mistook his vocation.
+profession - специальность, профессия
+	The medical profession is respected by plenty of people.
+by profession - по профессии
+	She is lawyer by profession.
+I've choosen a profession of a ... / I decided to be a ...
+	I've choosen a profession of a teacher.
+to reach the top of your profession / to be at the top of your profession - достигнуть вершины в профессии
+	He has reached the top of his profession.
+occupation - род занятий, профессия - используется в резюме
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+afford - иметь возможность
+	I can't afford the journey.
+blow - продуть 
+	He blew his chance.
+to be broke - быть без денег
+	I cannon afford this dress because I am broke now.
+waste - тратить
+	All his efforts were wasted.
+pay day - день зарплаты
+heavily taxed - обложенный большим налогом
+	Cigarettes are heavily taxed in Britain.
+ATM / cashmachine - банкомат
+	Excuse me, do you know where the nearest cash machine is?
+mortgage - ипотека
+	We carry a very large mortgage.
+	I got a mortgage approval.	
+take out a mortgage - взять ипотеку
+pay mortgage - выплачивать ипотеку
+	I pay my morgage and I have a ton of other minor expenses.
+pay off mortgage - выплатить ипотеку
+	I worked hard to pay off my mortgage.
+save - экономить, копить
+	It saves you one hour.
+charge smb for - взимать плату за
+	The taxi driver charged me 10$.
+pay back - возвращать деньги
+	When can you pay me back the money I lent you?
+spend - тратить
+	I spend 50$ on books yesterday.
+lend - давать взаймы
+	I don't like lending money to my friends.
+borrow - занимать
+	I borrow a lot of money from the bank.
+make ends meet - сводить концы с концами
+	I lost my job and I'm having a hard time making ends meet.
+tighten - затянуть пояс
+	Another fine? I'll have to tighten my belt this month!
+other side of the coin - другая сторона монеты
+-------------------------------------------------------------------
+-------------------------------------------------------------------	
+stepfather - отчим
+nephew - племянник
+niece - племянница
+the only child - единственный ребенок
+fiance/bridegroom - жених
+fiancee/bride - невеста
+get on well with each other - ладить друг с другом
+live under the same roof - жить под одной крышей
+affectionate - любящий, нежный, ласковый
+	Affectionate people show that they love or like people very much.
+sensitive - чувствиткльный
+ambitious - энергичный
+	Ambitious people want to be successful in life.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+from now on - начиная с этого момента - From now pn you call me "Mama"?
+over there - вон там
+help out - помочь в затруднительном положении - We will have to help each other out.
+to do something by the book - сделать что-то по всем правилм
+to read someone like a book - прочитать кого-то как книгу
+to oldest trick in the book - старо как мир
+There still are to this day in fact.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+I can't complain
+You got lucky
+It's good news
+I have trouble concentrating
+Dress to impress
+close friend
+lost touch
+have a lot in common
+BFF - best friends forever
+best mate
+a trust friend - Such feelings are shared only with trusted friends.
+a childhood friend - друг детства - We are childhood  friends.
+a circle of friends - She has a large circle of friends.
+soulmate - родственная душа - You are my best friend and my soulmate.
+a mutual friend - общий друг - Jill is a mutual friend of ours.
+to get along with - ладить - I get along with my chief.
+to have friends in high places - иметь друзей во влиятельных кругах
+A friend in need is a friend indeed. - Друг познается в беде.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+in the long run - в конце концов
+to begin the world - начать новую жизнь
+in the middle of nowhere - в очень отдаленном мксте
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+to have a crush on someone - I have a crush on a girl in my English.
+to fall in love with smb - I think I'm falling in love with Melissa.
+love at first sight - I knew Marry would become my wife from the moment I first saw her at the party.
+to fall in love head over heels - воюбиться без памяти - We fell head over heels for each other.
+to be taken - состоять в отношениях - Sorry, but she is ready taken.
+to hit it off, to hit it off (with smb) - понравится друг другу - Mary and Tom met at a party last week and hit it off.
+puppy love - первая юношеская любовь - It's only puppy love.
+to hook up - завеести интрижку - We hooked up last night.
+to be on the rocks - быть на грани разрыва - My relationship with my husband is on the rocks.
+to dump smb - бросить кого-то - She dumped me.
+to pop the question - делать предложение - I really love my girlfriend and i'm going to pop the question.
+propose - делать предложение - John proposed to Sarah on the beach at sunset.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+laber market - рынок труда - You should always stride to be at the top of the labor market.
+trial period - испытательный срок - If you choose to use the software beyond the 30-day free trial period, you are required to pay for it.
+workload - нагрузка - Your salary will rise proportionately to your workload.
+CV - curriculum vitae - резюмк - Why don't you send in your CV with a covering letter (сопроводительное письмо)? 
+to applay for a job - It's ridiculus to apply for that position.
+job description - I applied for the position after reading the job description.
+job offer - предложение работы - Have you had any job offers?
+to accept an offer / to reject an offer / (to turn down an offer)
+work experience - I haven't got any work experience in this field.
+to hire - He was hired to do this job.
+career - He choose banking as a career.
+to climb carreer ladder
+career break
+overtime - сверхурочно - It came to my attention that she often has to work overtime.
+shift work - сменная работа - I hate shift work.
+tempory basis - временный найм - She was employed an a temporary basis. 
