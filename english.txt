@@ -177,6 +177,12 @@ over - можеть использоваться, как: предлог, нар
 	over and over - снова и снова - He called me over and over.
 	all over the place - везде (повсеместно) - I looked for my book all over the place.
 	cry over split milk - жаловаться на то, что уже произошло - What's done cannot be undone, so it's no use crying over split milk.
+Слова:
+	overweight - I see you are a little overweight.
+	overcharged - The cashier overcharged me by at least $2.00.
+	overload - Don't overload people.	
+	overcrowd - переполнять, overcrowded - переполнены - Classrooms were overcrowded, with one teacher teaching on average 140 pupils.
+	overbooked - The doctor's office called and said that they overbooked the appointments for today.
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 Инфинитив - изначальная форма глагола (через частицу to) - to go, to come, to buy
@@ -991,7 +997,281 @@ boring - скучный - Jane's job is boring.
 bored - скучающий - Jane is bored.
 -------------------------------------------------------------------
 -------------------------------------------------------------------
-I can't complain
-You got lucky
-It's good news
-I have trouble concentrating					
+Complex Object - сложное дополнение - конструкция, состоящая из существительного или местоимения в объектном падеже
+(me, us, you, him, her, them, it) и инфинитива
+Переводится как придаточное предложение с союзами, "как", "что", "чтобы"
+	She saw us talk to each other.
+	I want you to say it.
+1) Глаголы, с которомы используется - выражающие физическое восприятие и ощущение (после них ставится инфинитив без to):
+	to see
+	to watch
+	to notice
+	to observe
+	to feel
+	to hear - I have never heard you sing.
+с этими глаголами может также использоваться причастия настоящего времени (participle 1)
+если используется participle 1 - то демонстрируется процесс протекания действия, 
+если инфинитив - подчеркивается однократность совершаемого действия
+	I have never heard sing - I have never heard singing.	
+2) Глаголы, выражающие побуждение, оказание влияния на поступки:
+	to let - позволять - We let him play computor games.
+	to make - заставлять - I made him stay home.
+	to have - распорядиться
+	to cause - причинять, засталять
+3) Глаголы, выражающие желание и потребность:
+	to want - хотеть - She wants them to explain everything.
+	to wish - желать
+	to like - нравиться
+	should / would like - хотел бы 	
+4) Глаголы, выражающие предположение:
+	to expect - ожидать, расчитывать - Parents usually expect their children to be obedient. 
+	to suppose - полагать
+	to believe - считать, полагать
+	to consider / to find - считать
+5) Глаголы, выражающие знание:
+	to know - знать - I know her to come.
+	to think - думать - She thought him to be a doctor.
+	to state - константировать
+	to note - замечать, отмечать
+	to report - сообщать	
+6) Глаголы, выражающие побуждение или приказ:
+	to order - приказывать - He ordered me to return.
+	to allow - разрешать - He allowed him to play with his cat.
+	to forbid - запрещать
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+in case - на случай (после in case настоящее время)
+	I will leave my mobile phone switched on in case Tom calls.
+	I'll leave the key on the table in case you need it.
+	Главное предложение может быть в настоящем или будущем времени, а придаточное предложение в настоящем.	
+in case + прошедшее время - когда хотим сказать, почему мы так сделали
+	I left my phone switched on in case Tom called.
+just in case - просто на всякий случай 
+	I don't think it will rain, but I'll take an umbrella, just in case.
+	We always keep some money in reserve, just in case.
+in case of = if there is - в случае
+in the case of - в отношении
+to keep on the safe side - на всякий случай
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+despite и in spite of следует употреблять, когда после них идет существительное, местоимение или герундий
+	Despite the rain we are going to walk.
+	In spite of that I was ready to start working.
+c выражением the fact of можно использовать существительное + глагол:
+	She left our house despite the fact that I had asked her to stay.	
+although и though - послених всегда существительное + глагол
+	Jonh did his homework although he was very busy all day long.
+though - можно встретить в конце предложения:
+	I study English I have no time to rest though.
+the act out of spite - делать назло - It's every little girl's dream to get married out of spite.
+even so - тем не менее
+even-steven - поделенный поровну, квиты - Are we even-steven for all your troubles?
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+make 
+	производим что-то:
+		to make a skirt
+		to make dinner
+		to make a cup of tea
+	эмоциональные последствия:
+		Children make me happy.
+		He makes me cry.	
+do 
+	выполняем рутинные действия
+		to do the task
+		to do morning exercises
+		to do the ironing
+	после do можно ставить герундий
+		When he is bored he does some painting.
+ 	после do можно использовать слово, которое обозначает действие, но не указано какое именно (something, anything, everything, nothing)
+		Let's do something this afternoon.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Употребление причастного оборота:
+	1) Когда события случаются одновременно, можно использовать причастный оборот с -ing:
+		Kate is in the kitchen making coffee.
+		A man ran out of the house shouting.
+	2) Когда одно событие встречается во время другого, но более длительного (ing в более длительном):
+		Joe hurt his knee plaing football.
+		Did you cut youself shaving?
+	3) После слов while или when:
+		Joe hurt his knee while playing football.
+		Be carefull when crossing the road.
+	4) Одно событие следует за другим (having + V3 (более раннее действие) (или after + V-ing)):	
+		Having found a hotel, we looked for somewhere to have dinner.
+		Having finished her work, she went home.					
+		After finishing her work, she went home.
+	5) Если короткое событие следует сразу после другого короткого события, можно использовать ing:
+		Taking a key out of his pocket, he opened the door.
+	6) Объяснение чего-либо, если два события происходят одновременно:
+		Feeling tired, I went to bed early.
+		Being unemployed, he doesn't have much money.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Present Perfect Continuous:
+	Слова маркеры:
+		lately
+		recently
+		quite a while
+		all day
+		for - It has been raining for 3 hours.
+		since - They have been working since you arrive.
+	Используется:
+		1) действие продолжалось, продолжается и будет продолжаться
+		2) действие только что закончилось и виден его результат
+	Отличие от present perfect:
+		present perfect - действие совершилось к настоящему моменту времени, либо в прошлом, период времени может быть не указан
+		present perfect continuous - длительное действие, которое началось в прошлом и еше совершается в настоящее время, период времени указан:
+			She has been waiting for you 6 hours.
+		present perfect continuous - действие началось в прошлом и закончилось непосредственно перед моментом речи:
+			Mother is tired, she has been cooking dinner.
+	Часто используется с How long ...?
+		How long has she been writing an imaginative story about life on the planet?
+	Глаголы, которые нельзя использовать во временах группы continuous:
+		feeling:  hate, like, love, prefer, want, wish
+		senses: appear, feel, hear, see, seem, smell, sound, taste
+		communication: agree, deny, disagree, mean, promise, satisfy, surprise
+		thinking: believe, imagine, know, mean, realize, recognize, remember, understand
+		other states:  be, belong, concern, depend, involve, matter, need, owe, own, possess
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+should have + ed - говорим о вещах, о которых сожалеем - I should have taken an umbrella.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Формальные конструкции:
+	- без сокращений: I'm, I'd, I don't
+	- не используются фразовые глаголы - The infilation increased (не went up).
+	- не используются сленговые выражения - How you doing? (не What's up?)
+	- не употреблять I - We apologize for the delay.
+	- используются развернутые выражения
+	- специальная терминология (We audit financial report. не We check financial report.)
+	senior citizen вместо old man
+Неформальные конструкции:
+	- сленг и идиомы 
+		- He is joke. - Он нелепый.
+		- I dig your new style. - Я тащусь от твоего стиля.
+		- Bod's your unckle. - Вуаля.
+		- Good thanks - В порядке.
+		- to be on one's bucket list
+	фразовые глаголы:
+		budge up - подвинуться
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+hardly (часто употребляется с any, anyone, anybody, anything, ever), ингода используется at all после глагола
+	I hardly slept at all last night. - Я почти не спал прошлой ночью.
+	At first, hardly anyone came.
+	You hardly ever tell me anything. - Ты почти никогда ничего не говоришь.
+	It hardly matters what I think.
+	We hardly ever see our friends. - Мы едва ли видимся со своими друзьями.
+likely - наречие, выражает вероятность
+	People are more likely to notice pictures than the text in magazines.
+unless = if ... not = except if - союз, используемый в условных предложениях первого типа
+	If don't learn English, I will not get acquainted with foreigners. = Unless I learn English, I will not get acquainted with foreigners.				
+unless = untill - пока не, до того как
+	He didn't know about the accident unless he'd heard about it on TV.
+not unless = only if (только если)
+	Shall I tell Liz what happened? - Not unless she asks you.	
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Past continuous:
+	1) действие длилось в определенное время в прошлом (all day, this morning, evening, in the morning):
+		At 5 o'clock I was walking near the house. 	
+	2) когда два действия происходят одновременно в прошлом (с помощью союзов and и while):
+		I was writing a letter to my sister while my wife was cooking dinner.
+	3) когда хотим описать обстановку:
+		The quests were sitting on the sofa. They were laughing and chatting.
+	4) говорим о привычках человека в прошлом:
+		We were often being late because of you.
+	5) когда действия были заплонированы, но не произошли:
+		to mean to, to intend to, to hope to, to expect to, to think, to plan
+			I was hoping to buy a car, but I was not able to save enough money.					
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+would - прошедшее will:
+	1) для выражения вежливой просьбы:
+		Would you open the window, please?
+	2) would = used to
+		He would repeat the test several times. = He used to repeat the test several times.
+		I would go swimming twice a week.
+	3) would rather
+		I would rather ask her to help me.
+	4) would sooner - лучше бы, скорее 
+		He would sooner die than face them.			
+	5) would - когда говорим о предположении или догадке
+		Our parents saw a very tall girl in this garden. Who would it be?
+		They would leave when Emily comes.
+	6) для выражения упорного нежелания совершить какое-то действие в прошлом:
+		I tried to warn him, but he wouldn't listen to me.
+		I would not do it for anything.
+	7) I/we - выражает намерение, желание или согласие:
+		I said that I would help him.
+		I would do anything for you.
+	8) вежливое выражение своего мнения с глаголами say, tell, note
+		I would say = I'd say
+		I would say it's a hasty decision.
+		I'd say it worked really well.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+Future continuous:
+	will be + V ing - I will be playing.
+Будет находится в процессе деятельности в определенный момент в будущем:
+	at six o'clock
+	at noon
+	at midnight
+	at that moment
+	at 5 o'clock tomorrow
+	in an hour
+		She will be having a music lesson at 3 o'clock tomorrow.
+В будущем точно что-то произойдет (равно going to) :
+	We will be going to the theatre tomorrow.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+whatever - что бы ни ... / какой бы ни... / что угодно / любой
+	Take whatever you want.
+	Do you have whatever food?
+whatever может употребляться в разговорной речи:
+	в отрицательных предложениях (или с отрицательным смыслом) в значении "никакой, вообще не, совсем не"	
+		I can see nothing whatever. - Я вообще (совершенно) ничего не вижу.
+		There is no doubt whatever.
+	сарказм (кого-это волнует):
+		Jenny has been chosen as the best worker. - Whatever.
+	не важно, безразницы:
+		What are we going to do tonight? - Whatever.
+	возмущение:
+		I have bought lots of presents for you this year. - Whatever?
+wherever - где / куда / где бы ни... / везде, где... / повсюду  = no matter where = it doesn't matter where
+	Wherever you may roam, the stars will light your way.
+	If you could go wherever you wanted to in the world, where would you go?
+whenever - всегда, когда... / когда бы ни... = no matter what = it doesn't matter what
+	Whenever I have problems, I ask my friends for help.
+	You may leave whenever you wish.
+whoever - кто-угодно / кто бы ни / любой = no matter who = it doesn't matter who
+	I'll take whoever wants to go.
+	Whoever wants to come along is welcome to join us.
+whichever - какой / какой бы ни / какой угодно (ограниченный выбор)
+	Whichever dress you choose, you'll look gorgeous in it.
+	Take two of the sweets, whichever you prefer.
+-------------------------------------------------------------------
+-------------------------------------------------------------------
+I wish - как бы мне хотелось
+If only - если только - является более эмоциональным, чем i wish
+	1) выражение желания или сожаления по отношению к настоящему времени - используется past continuos или past simple:
+		I wish it was not drizzing.
+		If only they won a match.
+	2) сожаление о случившихся или не произошедших событиях в прошлом (past perfect, past perfect continuos):
+		She wishes she had not been driving so fast.
+		We wish we had not left a key at home.
+		If only I had prepared more properly.
+	3) wish / if only могут относится и к будушим действиям. В этом случае за ними следует would в сочетании с инфинитивом.
+		а) при желании выразить просьбу:
+			I wish you would help me. - Если бы ты мне помог.
+			If only you would bring me a cup of hot tea.
+		б) в случае желания высказать недовольство, изменить ситуацию, но сделать это невозможно:
+			I wish my parents would be younger.
+			I wish I could change the weather.
+			If only they would give me my money back.
+	4) can в конструкциях с I wish меняется на couldn't, can't на could.
+		I can't swim. I wish I could.
+		He can come to the party. I wish he couldn't.							
+								
+								

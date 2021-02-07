@@ -53,6 +53,14 @@ get real - взглянуть правде в глаза
 get dressed / undressed / changed - I wake up at 7 o'clock, get dressed and have breakfast.
 get to know - узнать - I get to know a lot of information.
 get together - собираться
+get behind (with) - не сделать объем работы, отставать - I got behind because I spend too much time on the Internet.
+get something over with - завершить что-то неприятное - Let's get this meeting over with, or else we'll never get away before the the rush hour.
+get away - покинуть место или человека, выбираться
+can't / couldn't get over something - быть удивленным или шокированным, что оказалось правдой - 
+I can't get over ... - Я не могу поверить - I can't get over how she manages to get away with doing so little work. 
+get away with something / doing something - избежать критики или наказания
+get by - иметь достаточно денег, чтобы заплатить, но не более - How do you manage to survive without a job? I get by with a bit of help from my parents.
+get around / round - найти способ решения проблемы - I will get around it. 
 -------------------------------------------------------------------
 -------------------------------------------------------------------
 get с прилагательными:
@@ -63,4 +71,19 @@ My English is getting better. - Мой английский становится
 I am getting ready to work. - Я собираюсь на работу.
 -------------------------------------------------------------------
 -------------------------------------------------------------------
-
+Когда используется не get:
+	go используется от изменениях в человеке:
+		go bald, go grey, go blind, go deaf
+	go используется для внезапных, обычно негативных, изменениях:
+		He was very embarrassed and his face went red.
+		Suddenly the sky went very dark.
+	go может использоваться для медленного изменения цвета:
+		The pages of the book had gone yellow over the years.
+	turn используется при изменении цвета:
+		The sky turned gold as the sun set.
+	become используется со следующими словами (с длительными изменениями (на долгий период времени)):
+		extinct, popular, homeless
+		Our local baker's has become famous for its apple tarts.
+	альтернативы (fall и grow):
+		She fell ill and was taken to hospital.
+		As my father grew older, he spend less time working.
